@@ -36,6 +36,7 @@ The Power BI dashboard includes:
 ## 📝 How to Run the Project
 
 Step 1 — Install Required Packages
+```bash
 pip install pandas faker
 
 Step 2 — Generate Dataset
