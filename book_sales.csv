@@ -1,0 +1,1001 @@
+Book_ID,Title,Author,Genre,Price,Copies_Sold,Revenue,Sale_Date
+1,Information almost,Rebecca Rodriguez,Romance,48.83,253,12353.99,2025-03-22
+2,Exactly message,Matthew Miller,Romance,7.6,156,1185.6,2025-05-19
+3,Approach card,Christopher Stephens,Non-Fiction,7.15,259,1851.85,2025-06-16
+4,Training hold see cell husband,Aaron Everett,Fantasy,29.53,651,19224.03,2025-04-28
+5,Per recently,Nathan Hudson,Sci-Fi,23.34,584,13630.56,2024-10-27
+6,Right even skill war,Anthony Mcclure,Business,26.41,899,23742.59,2025-04-17
+7,Account public bad thought enter,Gina Jones,Fantasy,33.69,663,22336.47,2025-06-17
+8,Indicate picture serious leave watch,Gabriela Pittman,Romance,30.98,121,3748.58,2025-03-29
+9,Ago executive season,Carly Jones,Romance,9.77,762,7444.74,2025-03-08
+10,Trouble where magazine return people,Jason Sims,Sci-Fi,45.72,326,14904.72,2025-07-19
+11,Race development sure,Sarah Salas,Fantasy,33.33,452,15065.16,2025-04-27
+12,Town month Democrat,Heather Palmer,Fiction,20.8,451,9380.8,2025-05-17
+13,Different mind back,Jennifer Young,Self-Help,15.29,778,11895.62,2025-05-09
+14,Must choose time national leg,Cindy Green,Romance,36.77,376,13825.52,2024-09-08
+15,Shoulder consumer TV recent,John Hill,Sci-Fi,21.31,688,14661.28,2024-10-24
+16,Own culture loss yet,Michael Burke,Non-Fiction,27.21,600,16326.0,2024-12-22
+17,Series option short four,Lucas Michael,Mystery,11.01,786,8653.86,2025-01-28
+18,Majority sport up,Jamie Jenkins,Fiction,7.36,258,1898.88,2025-01-18
+19,Item front mind party join,Joel Lucero,Sci-Fi,45.16,596,26915.36,2025-07-04
+20,Run exactly especially,Sarah Mitchell,Business,28.46,537,15283.02,2025-01-21
+21,Knowledge most,Heather Alvarez,Mystery,49.69,122,6062.18,2024-10-12
+22,Science continue party school,Amber Lowe,Self-Help,44.22,143,6323.46,2024-09-18
+23,Indicate fly,Courtney Johnson,Sci-Fi,45.8,583,26701.4,2024-10-29
+24,Pretty listen,John Cross,Romance,44.02,734,32310.68,2025-03-23
+25,First since material late feel,Jill Marsh,Mystery,28.33,870,24647.1,2025-05-13
+26,Activity worry national product,Jeremy Foster,Fantasy,7.14,603,4305.42,2025-06-16
+27,Large team food,Rodney Ward,Mystery,45.44,928,42168.32,2024-12-12
+28,Television middle two,Alexander Smith,Fiction,37.8,122,4611.6,2025-08-08
+29,Interest possible,Alex Gardner,Fantasy,43.86,403,17675.58,2024-09-30
+30,Sound card,Jon Stewart,Sci-Fi,27.47,635,17443.45,2025-03-10
+31,Yet know,Deborah Bailey,Fiction,25.16,100,2516.0,2025-06-05
+32,Space they member,Lisa Thompson,Non-Fiction,5.37,94,504.78,2024-09-09
+33,Rise sell field thousand local,Isaac Brown,Mystery,8.59,721,6193.39,2024-10-11
+34,Source force character,Joe Smith,Business,30.41,665,20222.65,2024-10-01
+35,Those compare analysis sport,Thomas Perez,Fiction,7.89,53,418.17,2024-08-20
+36,Respond full worry,Gina Shaw,Fantasy,6.89,625,4306.25,2025-05-24
+37,Mind total,Bryan Grimes,Business,5.57,115,640.55,2025-05-28
+38,Window newspaper base,John Gross,Non-Fiction,29.24,285,8333.4,2025-06-10
+39,Point street bar mean,Sherry Garcia,Business,31.39,998,31327.22,2024-11-07
+40,Common current issue,Peggy Butler,Sci-Fi,44.51,524,23323.24,2024-09-29
+41,Certain so,Joseph Norman,Fiction,33.39,266,8881.74,2025-05-06
+42,Eight finally on believe,Jeffrey Perez,Business,12.9,941,12138.9,2025-03-12
+43,Two begin religious chance,Margaret Bell,Business,29.74,889,26438.86,2025-03-07
+44,Only rise again task hold,Ann Boone,Fiction,38.1,570,21717.0,2024-10-31
+45,Science forget learn yet among,Kelly Mcdowell,Self-Help,10.84,924,10016.16,2025-04-19
+46,Reason difference purpose take unit,Janet Boyd,Self-Help,36.64,911,33379.04,2024-10-15
+47,Any difficult,Mark Higgins,Romance,18.76,277,5196.52,2025-08-09
+48,Step dark under,Mr. Christian Nash,Business,44.9,482,21641.8,2025-02-18
+49,Image where,Alexander Miranda,Mystery,28.56,138,3941.28,2025-03-12
+50,Adult government,Kelly Cummings,Romance,49.7,614,30515.8,2025-02-19
+51,Into at dog,Corey Caldwell,Business,24.38,457,11141.66,2025-03-15
+52,Brother church,Amy Lopez,Fiction,25.94,428,11102.32,2025-04-27
+53,Admit serious night,Taylor Miller,Romance,22.55,614,13845.7,2025-01-11
+54,Clear go soon hard while,Francis Gardner,Business,16.03,240,3847.2,2025-06-11
+55,Until threat but which,Tammy Miranda,Mystery,28.72,887,25474.64,2025-02-24
+56,Whole position lawyer,Pamela Little,Fantasy,19.51,144,2809.44,2024-12-21
+57,Do west rise,Troy Thomas,Sci-Fi,33.25,990,32917.5,2025-01-30
+58,Firm than amount participant,Kendra Jones,Fiction,19.31,771,14888.01,2025-01-21
+59,Mention man personal assume culture,Dawn Valentine,Fiction,31.78,333,10582.74,2025-07-05
+60,Stay herself foot,Michelle Diaz,Fiction,41.25,476,19635.0,2024-12-03
+61,Partner man unit staff,Christopher Keller,Fantasy,41.81,959,40095.79,2024-10-03
+62,Six catch stock myself,Meredith Carr,Non-Fiction,37.86,641,24268.26,2024-09-11
+63,Sound cell everybody,Alicia Higgins,Self-Help,39.42,406,16004.52,2025-07-09
+64,Service game,Casey Warren,Business,35.11,563,19766.93,2025-08-13
+65,Others talk,Paul Peterson,Business,17.71,742,13140.82,2024-08-24
+66,American democratic,Sydney Powell,Mystery,24.1,956,23039.6,2024-12-13
+67,Set both before,Mr. Jay Oneill MD,Business,41.91,253,10603.23,2025-05-06
+68,Her group,Kathleen Davis,Self-Help,30.84,558,17208.72,2024-08-23
+69,Finally effect business,Carlos Collins,Mystery,11.97,918,10988.46,2025-06-26
+70,Mother only,Wendy Garrett,Romance,16.58,479,7941.82,2025-04-29
+71,Only as cost,Edward Alexander,Fantasy,23.29,685,15953.65,2024-12-13
+72,Them public support safe,Susan Holt,Romance,7.0,254,1778.0,2025-04-19
+73,Body see would,Heather Lawrence,Mystery,49.07,774,37980.18,2024-12-20
+74,Tend bring politics,Jennifer Vega,Fiction,17.29,247,4270.63,2024-12-14
+75,Market value crime,Megan Kaufman,Self-Help,45.6,734,33470.4,2024-10-13
+76,Ever until series,Julie Nelson MD,Fantasy,48.04,177,8503.08,2025-05-27
+77,Instead image executive party,Bradley Park,Fantasy,45.97,577,26524.69,2025-03-24
+78,Such anything skill measure,Veronica Nunez,Business,38.49,664,25557.36,2024-09-05
+79,Reveal say,Sarah Rodriguez,Sci-Fi,41.61,329,13689.69,2025-03-20
+80,Data identify return she finish,Perry Weber,Romance,27.98,413,11555.74,2024-09-07
+81,People specific Republican project,Susan Rivera,Business,13.86,412,5710.32,2025-02-25
+82,Concern mention stop,John Green MD,Romance,29.58,617,18250.86,2024-12-16
+83,Learn message must listen,Taylor Frost,Self-Help,45.68,400,18272.0,2025-07-08
+84,Hot fight item general,Kristin Petersen,Business,29.28,716,20964.48,2025-07-21
+85,Painting health realize,Deborah Rivera,Fantasy,15.14,821,12429.94,2025-07-30
+86,Example green back break realize,April Collins,Sci-Fi,22.74,488,11097.12,2024-12-14
+87,Glass six home officer reach,Terri Lewis,Self-Help,5.1,190,969.0,2025-08-08
+88,Front commercial worker into,Joseph Johnson,Sci-Fi,31.63,412,13031.56,2024-10-13
+89,Federal lot this,Mr. Russell Washington,Sci-Fi,19.24,934,17970.16,2024-12-05
+90,Operation have it,Melissa Cox,Business,24.68,923,22779.64,2025-07-26
+91,Officer man drug television,Kathryn Zimmerman,Sci-Fi,31.05,147,4564.35,2024-12-29
+92,Nearly difficult industry fast,Susan Jackson,Sci-Fi,49.89,420,20953.8,2024-12-16
+93,Rock range indeed current,Robert Harris,Sci-Fi,5.1,619,3156.9,2025-01-12
+94,Though reflect,Jordan Duncan,Business,23.48,570,13383.6,2025-04-15
+95,Throw stage,Zachary Coleman,Fiction,24.29,393,9545.97,2024-11-27
+96,Every ready medical,Jordan Romero,Fiction,12.78,878,11220.84,2024-12-04
+97,Evidence Mrs fish expert,Hunter Nguyen,Business,31.95,303,9680.85,2025-01-26
+98,Realize here few off worry,Tiffany Hernandez,Mystery,5.89,974,5736.86,2025-01-22
+99,Black shoulder,Jesse Kelley,Business,18.8,626,11768.8,2025-08-15
+100,Main people agree key ready,Lisa Gray,Mystery,49.05,708,34727.4,2024-11-04
+101,Than bag happy drug,Sean Meyer,Fiction,34.63,777,26907.51,2025-02-06
+102,Check where staff girl,Frances Davis,Business,50.0,913,45650.0,2025-01-18
+103,Put step,Mark Riley Jr.,Fantasy,44.75,102,4564.5,2025-01-05
+104,Write range owner,Sarah Delgado,Non-Fiction,37.52,325,12194.0,2024-12-07
+105,Result again environmental,Linda James,Fiction,48.1,554,26647.4,2025-06-07
+106,General necessary despite,Tammy Hansen,Mystery,28.83,993,28628.19,2025-07-03
+107,Own number,Cory Tate,Self-Help,25.59,874,22365.66,2024-11-11
+108,Health nearly compare realize of,Natalie Walsh,Self-Help,5.57,578,3219.46,2025-04-16
+109,Few expect well pattern senior,Kim Mendoza,Romance,47.47,868,41203.96,2024-11-05
+110,Choice glass woman,Angel Dickson,Sci-Fi,25.85,812,20990.2,2024-09-03
+111,Reflect from,Andrew Bradshaw,Fiction,46.31,266,12318.46,2024-12-26
+112,All trial agreement,Melanie Carter,Business,16.09,607,9766.63,2025-03-21
+113,Staff become forward,James Harrison,Sci-Fi,5.92,174,1030.08,2025-04-11
+114,Discussion material reduce,Nicole Nicholson,Self-Help,13.87,360,4993.2,2024-11-10
+115,Themselves Mr player,Tracy Bass,Fantasy,31.41,523,16427.43,2024-12-09
+116,Notice fast least,Sean Harris,Fantasy,46.21,152,7023.92,2024-09-21
+117,Key surface ground agent wide,Suzanne Schroeder,Fiction,35.58,423,15050.34,2024-09-08
+118,Leader heart yet value,Chad Freeman,Mystery,21.97,542,11907.74,2025-02-25
+119,Identify design explain enter page,Phyllis Edwards,Fiction,38.97,81,3156.57,2025-04-08
+120,Indeed admit mind health same,Amanda Simpson,Non-Fiction,39.87,385,15349.95,2025-01-11
+121,News write without,Kelli Smith,Romance,7.02,934,6556.68,2025-02-02
+122,Factor finish art whom,Christopher Smith,Mystery,12.32,147,1811.04,2025-07-31
+123,Physical talk,Kevin Lewis,Self-Help,8.01,876,7016.76,2025-05-24
+124,Democrat pull hundred represent,Martin Smith,Mystery,46.24,601,27790.24,2024-12-22
+125,Top large,Erin Atkinson,Self-Help,45.49,429,19515.21,2025-07-12
+126,Question manager under reason,Christine Ray,Mystery,36.97,796,29428.12,2025-05-14
+127,Tv term right,Melissa Mccoy,Fantasy,48.11,703,33821.33,2025-08-18
+128,Traditional off skin,Kayla Santos,Non-Fiction,17.41,860,14972.6,2025-05-29
+129,Church for garden,Samuel Jackson,Mystery,22.72,951,21606.72,2025-07-06
+130,Begin avoid,Sharon Avila,Mystery,42.55,622,26466.1,2024-08-30
+131,Guy adult letter player,Kelly Miles,Mystery,32.76,211,6912.36,2024-09-24
+132,Though still,Michael Martinez,Fantasy,25.93,592,15350.56,2025-03-20
+133,High away,Danielle Cook,Fantasy,24.64,679,16730.56,2025-04-23
+134,Hit left happen,Matthew Weiss,Sci-Fi,18.48,526,9720.48,2025-04-16
+135,Campaign person as,Brad Rojas,Mystery,32.08,521,16713.68,2024-10-26
+136,Tend human next design,Aaron Figueroa,Fiction,16.37,143,2340.91,2024-12-04
+137,Professional may recognize,Michael Hansen,Romance,33.66,177,5957.82,2025-02-14
+138,Wind dark,Brittany Cook,Fiction,22.88,434,9929.92,2025-05-13
+139,Race professor onto great,James Hall,Non-Fiction,36.2,409,14805.8,2024-11-27
+140,Fact produce none already author,Christopher Flores,Self-Help,18.71,131,2451.01,2024-10-29
+141,Thus inside,Katie Smith,Non-Fiction,40.71,81,3297.51,2024-09-03
+142,She truth throw out Mr,Kimberly Baxter,Mystery,7.58,939,7117.62,2024-12-22
+143,Watch speech city Mrs expert,Dwayne James,Sci-Fi,38.29,459,17575.11,2025-01-15
+144,Learn perhaps collection,Michael Williams,Business,24.55,493,12103.15,2025-01-19
+145,Care task I writer,Cassandra Harris,Business,42.38,552,23393.76,2025-03-20
+146,Now win car,Tricia Carter,Fantasy,8.8,473,4162.4,2025-06-12
+147,Rather whatever man else,Jacob Allen,Non-Fiction,24.33,633,15400.89,2025-06-29
+148,View position leader,Jonathan Gonzalez,Business,44.8,641,28716.8,2025-06-30
+149,Near because better,Arthur Blevins,Fiction,44.76,58,2596.08,2025-05-13
+150,Blood people,Ashley Ford,Fiction,31.92,630,20109.6,2025-05-27
+151,Last media able tree,Debra Jones,Self-Help,34.49,591,20383.59,2024-09-03
+152,Door force institution,Stacy Diaz,Sci-Fi,20.07,997,20009.79,2024-10-01
+153,Eight resource,Gary Davis,Business,31.6,791,24995.6,2024-11-29
+154,Ok adult stand,Christopher Ward,Mystery,35.26,836,29477.36,2024-09-17
+155,Arm bring yeah,Jennifer Harrington,Sci-Fi,17.99,766,13780.34,2024-12-31
+156,Will move,Amy Gray,Mystery,12.62,238,3003.56,2024-11-27
+157,Already marriage new share,Keith Solomon,Non-Fiction,42.5,285,12112.5,2024-09-03
+158,Door performance leave,Jordan Butler,Fiction,41.73,462,19279.26,2025-05-08
+159,Itself direction,Deanna Pierce,Fiction,5.81,872,5066.32,2024-12-25
+160,If realize central door,Anthony Palmer,Fiction,47.61,918,43705.98,2024-12-26
+161,Forget resource become,Catherine Martinez,Mystery,32.76,56,1834.56,2025-06-28
+162,Lead exist,Yolanda Landry,Romance,23.8,167,3974.6,2025-06-30
+163,As shake,Daniel Fisher,Business,15.9,313,4976.7,2025-01-06
+164,Process ago exactly,Robert Andrews,Mystery,35.27,342,12062.34,2024-11-11
+165,Weight would,Gerald Avila,Mystery,21.93,301,6600.93,2025-07-30
+166,Personal certainly,Curtis Houston,Mystery,38.92,115,4475.8,2024-12-15
+167,Stand record material,Penny Garcia,Mystery,32.71,740,24205.4,2025-06-16
+168,Across thank time series paper,Edwin Anderson,Fantasy,43.03,907,39028.21,2024-10-29
+169,Respond list soldier year,Christopher Taylor,Sci-Fi,36.9,595,21955.5,2025-08-13
+170,Bed month together,Jeffrey Gutierrez,Self-Help,40.83,267,10901.61,2024-10-22
+171,Them professional official question,Virginia Pineda,Fantasy,49.35,753,37160.55,2025-05-26
+172,New always try edge,Cheryl Bradford,Fiction,41.45,74,3067.3,2024-10-09
+173,Give capital center exactly material,Rachel Stevens,Non-Fiction,42.64,142,6054.88,2025-07-02
+174,Economy white,Mrs. Angela Compton,Mystery,41.1,718,29509.8,2025-02-18
+175,Reason out minute,Sherry Watson,Self-Help,26.79,501,13421.79,2025-08-14
+176,Step hotel,Heather Peterson,Fiction,47.91,169,8096.79,2024-10-14
+177,Now off have,Kelly Gonzalez,Sci-Fi,17.99,492,8851.08,2024-10-03
+178,Major almost,Emma Young,Business,35.94,800,28752.0,2025-05-18
+179,Success federal themselves who computer,Gregory Stewart,Business,6.9,153,1055.7,2025-03-13
+180,Memory all serve city,Paige Dickson,Sci-Fi,38.58,421,16242.18,2024-12-20
+181,Wish door where,Ricardo Hernandez,Non-Fiction,33.97,192,6522.24,2024-09-28
+182,Able affect visit medical,Amanda Craig,Business,43.07,435,18735.45,2024-09-26
+183,Life security as parent,Alison Simmons,Fantasy,7.75,455,3526.25,2024-09-29
+184,White data,John Moore,Fiction,33.36,904,30157.44,2024-09-25
+185,Friend camera maybe cost,Jessica Campbell,Mystery,47.8,428,20458.4,2025-08-08
+186,Trouble young professor enough,Brett Butler II,Fiction,16.23,734,11912.82,2024-12-23
+187,Decide item television sit,Tammie Allison,Fantasy,7.46,943,7034.78,2025-02-25
+188,Rest similar together,Eric Barnes,Sci-Fi,24.37,693,16888.41,2025-07-02
+189,Wish rather think southern,Nancy Hall,Business,7.13,891,6352.83,2025-04-16
+190,Seek painting military matter,Jeffrey Singh,Fantasy,8.58,323,2771.34,2025-06-13
+191,Find decision every,Chelsea Cox,Mystery,6.23,421,2622.83,2025-04-20
+192,Trade beat probably wear,Robin Ortiz,Mystery,9.89,307,3036.23,2025-01-21
+193,Federal performance reality key,Kathryn Wells,Fantasy,20.23,279,5644.17,2025-05-21
+194,Morning hard,Mrs. Mary Ramirez,Romance,35.09,608,21334.72,2024-10-26
+195,Never strategy song with,Christina Woods,Sci-Fi,49.76,538,26770.88,2025-06-22
+196,Late their fish word,Karen Ross,Romance,20.57,408,8392.56,2024-12-09
+197,Enjoy company drive black,Catherine Simmons,Self-Help,46.88,667,31268.96,2024-09-18
+198,Newspaper brother she,Holly Carter,Fiction,35.66,292,10412.72,2024-10-10
+199,All sense,Rachel Evans,Non-Fiction,23.62,608,14360.96,2025-06-01
+200,Mind coach what term,Darren Smith,Fiction,19.53,86,1679.58,2025-01-28
+201,Commercial beat clear,Rebecca Vaughan,Self-Help,25.4,704,17881.6,2025-05-09
+202,Education loss song figure travel,Dean Mccall Jr.,Fantasy,47.73,336,16037.28,2025-04-19
+203,Staff how work successful,Brian Guerrero,Fiction,19.79,556,11003.24,2024-10-16
+204,Ability natural beyond test,Shawn Mayo,Business,28.92,514,14864.88,2025-08-15
+205,Person card hour new,Terri Jones,Romance,36.1,338,12201.8,2025-07-29
+206,Weight attention,Marc Willis,Fiction,31.59,872,27546.48,2024-09-11
+207,Wonder blue performance,Marcus Rowe,Romance,5.52,139,767.28,2024-12-08
+208,Worry travel eight have,Brian Calderon,Fiction,35.87,330,11837.1,2024-09-24
+209,Represent quite,Jessica Peters,Non-Fiction,22.0,518,11396.0,2025-01-23
+210,Member animal program ahead manage,John Roman,Romance,27.97,634,17732.98,2025-03-29
+211,Indeed must home hope,Rebecca Mcdonald,Business,17.77,237,4211.49,2024-10-31
+212,Someone nation,Monica Frye,Self-Help,38.59,573,22112.07,2025-04-01
+213,Offer mouth,Shari Green,Business,29.26,179,5237.54,2025-05-26
+214,Small play,Tabitha Martinez,Mystery,47.31,73,3453.63,2025-01-24
+215,Child remember,Alex Odom,Non-Fiction,37.72,141,5318.52,2024-10-03
+216,Memory start,Amy Carroll,Sci-Fi,34.91,577,20143.07,2025-01-09
+217,Increase well school difference,Nathaniel Thomas,Business,10.0,689,6890.0,2025-04-21
+218,Than watch almost individual,Melinda Parker,Romance,21.83,428,9343.24,2024-12-11
+219,Yet center teach building build,Kelly Palmer,Self-Help,26.13,959,25058.67,2025-08-04
+220,Material different world meeting,Jennifer Diaz,Business,37.15,683,25373.45,2024-11-29
+221,Nation development owner,Matthew Williams,Business,30.87,632,19509.84,2025-05-30
+222,Stuff theory arm lay ask,Kimberly Carpenter,Business,7.0,545,3815.0,2024-10-22
+223,Economy story share news,James Johnson,Non-Fiction,33.16,362,12003.92,2025-08-07
+224,Though oil rise by,Claudia Gibbs,Fiction,45.74,952,43544.48,2025-03-21
+225,Whatever receive me third north,Amber Sexton,Fiction,34.94,59,2061.46,2025-07-26
+226,Tell strong standard,Jonathan Price,Fantasy,37.47,969,36308.43,2025-05-22
+227,Into space,Jasmine Woods,Romance,24.9,267,6648.3,2024-12-29
+228,Ball unit run,Kayla Tanner,Mystery,9.14,789,7211.46,2024-10-19
+229,School election fight up at,Brian Stout,Mystery,19.32,838,16190.16,2025-07-14
+230,Training once,Heather Jones,Fantasy,36.28,940,34103.2,2024-12-09
+231,Hot add step understand,Jessica Mueller,Sci-Fi,45.75,799,36554.25,2025-05-21
+232,Now son budget tax bit,Lawrence Grant,Non-Fiction,22.76,54,1229.04,2024-11-09
+233,And them institution coach,Kim Nelson,Mystery,35.35,181,6398.35,2024-11-30
+234,Anything international attorney section,Derek Blackburn,Non-Fiction,40.52,398,16126.96,2025-02-16
+235,Improve pick popular pretty,Rebecca Riley,Fantasy,41.98,692,29050.16,2024-12-26
+236,Guess claim summer also something,Catherine Perkins,Romance,30.94,835,25834.9,2025-07-16
+237,Mrs west,Raymond Watson,Self-Help,23.87,695,16589.65,2025-05-11
+238,Baby everything top,Marvin Strickland,Romance,21.7,826,17924.2,2025-03-18
+239,About fast not sport must,Sherry Stephens,Fantasy,31.85,110,3503.5,2025-04-22
+240,Present course pretty season,Amanda Maynard,Self-Help,36.21,886,32082.06,2025-07-01
+241,Much company beautiful size Congress,Maria Reynolds,Sci-Fi,45.54,821,37388.34,2025-08-13
+242,Much thought people agree,Antonio Rodriguez,Non-Fiction,28.8,851,24508.8,2024-11-08
+243,Attorney near choose energy,Austin Wolfe,Sci-Fi,9.97,597,5952.09,2024-10-08
+244,Check animal answer eight,Laura Leonard DVM,Mystery,38.54,860,33144.4,2025-06-07
+245,As finish coach approach record,Cameron Shaw,Romance,7.74,732,5665.68,2024-09-28
+246,Interest toward must cause do,Calvin Davis,Business,33.98,206,6999.88,2025-04-17
+247,Relate eye beyond,John Wright,Fiction,22.22,737,16376.14,2025-07-16
+248,Actually teach receive best small,Ryan Hodges,Fiction,13.83,529,7316.07,2025-04-16
+249,As arrive too especially,Natalie Andrews,Romance,29.16,124,3615.84,2024-10-30
+250,Feeling Democrat Democrat,Mary Simmons,Self-Help,36.61,435,15925.35,2024-12-17
+251,Key develop development score,William Robertson,Self-Help,14.11,170,2398.7,2025-07-11
+252,Still ago,Clinton Costa,Sci-Fi,41.08,77,3163.16,2025-06-15
+253,Ready however since assume,Gregory Williams,Business,14.71,669,9840.99,2025-04-03
+254,Shoulder box check check nothing,Danny Mitchell,Romance,18.51,857,15863.07,2024-12-27
+255,My stuff,James Klein,Sci-Fi,40.69,991,40323.79,2025-05-18
+256,Trade development old product,Amanda Wright,Business,18.01,966,17397.66,2025-01-09
+257,North organization well,Emma Snyder,Fantasy,14.53,386,5608.58,2025-06-27
+258,Loss despite learn check,Vanessa Harper,Business,19.86,705,14001.3,2025-06-30
+259,Case your,Zachary Benjamin,Mystery,12.43,610,7582.3,2024-11-22
+260,Protect she lot clearly,Kristina Edwards,Mystery,5.16,438,2260.08,2024-09-01
+261,Month industry dog turn professional,Steven Fischer,Self-Help,23.05,577,13299.85,2025-02-03
+262,Necessary second carry,Jonathan Hernandez,Non-Fiction,28.46,944,26866.24,2024-10-01
+263,Black claim idea,Rebecca Ross,Fiction,6.37,572,3643.64,2025-04-09
+264,How administration crime receive,Helen Dorsey,Business,12.86,947,12178.42,2024-08-27
+265,Blue person this,Hannah Ferguson,Fantasy,47.83,202,9661.66,2025-02-26
+266,Newspaper enough,Peter Krause,Mystery,15.42,298,4595.16,2024-10-16
+267,Dark wind benefit sea,Jessica Dunn,Business,19.83,445,8824.35,2024-10-22
+268,Lawyer dark foot chair,Raymond Hall DVM,Non-Fiction,8.81,158,1391.98,2024-12-07
+269,Tough professor fire,Michael Martinez,Non-Fiction,38.7,584,22600.8,2025-05-11
+270,Support remain force evening,Tasha Knight,Sci-Fi,37.99,491,18653.09,2025-06-15
+271,Ever option,Karl Pope,Business,7.95,103,818.85,2024-11-03
+272,Main along,Erica Edwards,Romance,30.3,902,27330.6,2025-07-03
+273,Ok size chance,David Lowe,Fantasy,19.84,575,11408.0,2025-05-15
+274,Book direction information,Michael Jensen,Sci-Fi,20.24,860,17406.4,2024-11-05
+275,But similar necessary,Stephen Williams,Business,28.1,672,18883.2,2024-12-06
+276,White word,Robert Taylor,Business,5.42,830,4498.6,2024-11-09
+277,Place teach,Brandi Alvarez,Business,23.71,879,20841.09,2025-08-04
+278,Age sit work point,Rachel Mccarthy,Business,37.74,734,27701.16,2025-07-05
+279,Partner memory production air available,Katherine Price,Mystery,25.91,956,24769.96,2024-10-23
+280,Outside reveal message,Christopher Coleman,Sci-Fi,39.64,515,20414.6,2025-02-04
+281,Seek high key similar,Angela Steele,Non-Fiction,25.48,779,19848.92,2025-04-20
+282,Executive seek although other,Ellen Navarro,Non-Fiction,35.95,542,19484.9,2024-08-28
+283,Design for,Cassie Turner,Mystery,40.36,254,10251.44,2025-05-19
+284,Resource life line participant,Amy Walton,Fantasy,19.78,910,17999.8,2024-09-16
+285,People specific,Gary Moody,Self-Help,48.63,169,8218.47,2025-06-29
+286,Hand behavior executive party smile,Kevin Lynch,Fiction,32.67,637,20810.79,2025-01-28
+287,Claim paper positive difficult,Christina Oconnor,Fantasy,31.55,251,7919.05,2025-03-18
+288,Good minute character man,Michael Davis,Romance,11.56,425,4913.0,2025-05-03
+289,Whose Mrs too,Veronica Booth,Fantasy,41.01,293,12015.93,2025-04-06
+290,Budget travel ask late,Michelle Coleman,Non-Fiction,31.67,132,4180.44,2024-10-02
+291,Forward ahead point,Lawrence Smith,Mystery,27.82,117,3254.94,2025-02-24
+292,Still machine sit,Vanessa Goodman,Sci-Fi,16.26,687,11170.62,2025-06-29
+293,Consider win,Joshua Nelson,Fantasy,6.75,682,4603.5,2025-04-08
+294,Computer method money and raise,Thomas Nelson,Fantasy,48.15,420,20223.0,2024-12-01
+295,Expert cultural summer,Sabrina Nelson,Mystery,27.23,925,25187.75,2024-08-28
+296,Page interest reduce include land,Jasmine Fisher,Fiction,8.78,695,6102.1,2025-01-13
+297,Bill theory care knowledge action,Lisa Pruitt,Business,47.78,460,21978.8,2024-08-30
+298,Response beat form address,Lee Dennis,Fantasy,29.56,206,6089.36,2024-11-27
+299,Response meet relationship,John Hogan DVM,Romance,35.0,351,12285.0,2024-10-17
+300,Unit pattern far give professional,Ernest Johnson,Self-Help,31.64,133,4208.12,2024-12-27
+301,Coach me west,Danny Hunter,Self-Help,9.76,822,8022.72,2025-02-06
+302,Response same,Victor Johnson,Fiction,23.32,867,20218.44,2025-02-17
+303,Avoid find by,Robin Green,Romance,48.9,254,12420.6,2025-01-21
+304,Space hotel bed former,Dr. David Craig,Mystery,40.02,421,16848.42,2024-09-11
+305,Music myself animal leader,Emma Allen,Business,21.99,182,4002.18,2025-01-30
+306,Hair contain,Alice Brandt,Romance,38.55,660,25443.0,2025-03-16
+307,Phone fact summer former,Robert Williams,Mystery,24.62,704,17332.48,2025-06-12
+308,Build TV garden human,James Trujillo,Mystery,27.23,431,11736.13,2025-06-28
+309,Fear those network do,Theresa Murphy,Mystery,12.45,259,3224.55,2025-04-01
+310,Type red involve computer,Lisa Thompson,Romance,29.49,891,26275.59,2025-01-25
+311,Level computer street financial,Brenda Brown,Fiction,30.82,285,8783.7,2024-09-20
+312,Interest behind pick treat,Paul Yoder,Fiction,8.7,758,6594.6,2025-06-02
+313,Seat gas six music hospital,Lydia Norris,Business,19.61,912,17884.32,2024-11-23
+314,Movement common stuff,Diana Ryan,Mystery,16.67,711,11852.37,2024-09-15
+315,Citizen whether,John Graves,Fantasy,40.73,894,36412.62,2025-01-24
+316,Represent apply tonight he,Erica Mitchell,Fantasy,15.25,957,14594.25,2025-07-11
+317,Executive phone machine memory human,Brandi Stewart DDS,Self-Help,28.28,990,27997.2,2024-09-05
+318,Western dark,Diane Miller,Sci-Fi,8.06,935,7536.1,2025-02-21
+319,Reveal traditional behind character,Steven Saunders,Fantasy,35.48,743,26361.64,2025-07-03
+320,Thought authority,Garrett Williams,Business,39.86,825,32884.5,2024-12-03
+321,Always main,Whitney Bryant,Non-Fiction,21.72,991,21524.52,2025-05-17
+322,Sort area,Theodore Lee,Business,29.79,349,10396.71,2025-07-22
+323,Talk instead threat,Jessica Bass,Non-Fiction,29.14,952,27741.28,2025-06-13
+324,Important for reality grow,Mrs. Jody Perry MD,Fiction,22.19,244,5414.36,2025-07-19
+325,Level morning,Alicia Lee,Sci-Fi,39.4,406,15996.4,2025-02-17
+326,Democrat sure floor,Matthew Bush,Self-Help,28.82,766,22076.12,2025-01-02
+327,List ten attorney,Jennifer Cook,Non-Fiction,37.07,525,19461.75,2025-08-11
+328,Wish beautiful good,Rebecca Dean,Sci-Fi,11.24,293,3293.32,2024-12-20
+329,Increase east official various film,Daniel Wilson,Self-Help,45.26,670,30324.2,2024-11-08
+330,Movie activity page though individual,Michael Hahn,Fantasy,49.05,385,18884.25,2025-03-18
+331,Ground rise prepare,Tonya Robinson,Romance,26.64,405,10789.2,2025-04-04
+332,Response four image,Matthew Rodriguez,Fiction,8.57,521,4464.97,2024-09-19
+333,Kind man also,Terri Frye,Mystery,48.86,397,19397.42,2025-01-31
+334,Dinner manager,Daniel Martin,Mystery,9.85,407,4008.95,2025-02-03
+335,Talk always,Leslie Smith,Fiction,31.01,223,6915.23,2025-03-07
+336,Speak garden beyond democratic seek,Scott Griffith,Fantasy,42.16,337,14207.92,2025-03-27
+337,Upon customer training economy rule,Shannon Leonard,Self-Help,43.07,989,42596.23,2025-07-17
+338,Recently pay company yeah write,Roberto Hawkins,Non-Fiction,8.93,615,5491.95,2024-11-26
+339,Beautiful exist site,Anthony Higgins,Romance,41.04,858,35212.32,2025-08-03
+340,Character stand apply its write,Rachel Atkins,Business,27.59,647,17850.73,2024-10-16
+341,Save popular matter paper most,Christopher Porter,Self-Help,23.21,754,17500.34,2025-03-18
+342,Religious seat north,Vanessa Campbell,Mystery,8.8,244,2147.2,2025-01-16
+343,Plant front citizen major,Angela Thomas,Non-Fiction,10.38,344,3570.72,2025-04-30
+344,Kitchen opportunity according,Robert Bradley,Fiction,40.26,918,36958.68,2025-03-25
+345,Community course main,William Mathis,Fantasy,32.01,742,23751.42,2025-08-12
+346,Sport learn possible kid cell,Michael Bell,Self-Help,27.27,186,5072.22,2025-07-04
+347,Throw then great laugh,Joseph Hanson,Business,39.91,994,39670.54,2025-07-07
+348,Evidence budget,Gabriel Jones,Fiction,13.75,894,12292.5,2024-09-05
+349,Statement small laugh,April Simpson,Sci-Fi,20.15,440,8866.0,2025-06-08
+350,Pattern attorney poor provide,John Rodriguez,Sci-Fi,37.79,552,20860.08,2024-08-30
+351,From response pick,Tara Long,Non-Fiction,7.48,509,3807.32,2025-03-15
+352,Large green realize,Keith Gutierrez,Business,15.3,280,4284.0,2024-10-16
+353,Event toward three,George Howard,Mystery,8.08,314,2537.12,2025-05-12
+354,Ahead prove,Jessica Carr,Fantasy,48.61,713,34658.93,2025-03-20
+355,Behavior successful big partner fish,Austin Morgan,Fiction,40.62,483,19619.46,2024-11-13
+356,Eight toward,Kimberly Garcia,Fiction,39.93,836,33381.48,2025-01-20
+357,Have nor,Adam Johns,Fiction,41.76,708,29566.08,2025-05-02
+358,Statement set carry claim,Maria Gonzalez,Romance,21.9,421,9219.9,2025-08-10
+359,Tell every trip decide,Dustin Lyons,Self-Help,14.81,963,14262.03,2025-04-28
+360,On fear bed success,Zachary Wood III,Fiction,10.46,710,7426.6,2024-12-29
+361,Night business interest,Linda Robinson,Fiction,46.95,733,34414.35,2025-08-03
+362,Hour forward sort,Christopher Bush,Business,12.56,864,10851.84,2025-03-07
+363,Discover detail including water,Keith Vaughan,Business,40.46,547,22131.62,2025-05-12
+364,Simply billion stand,Russell Roman,Fantasy,40.86,804,32851.44,2025-08-05
+365,Trip base,Kelly Davis,Fiction,5.2,800,4160.0,2024-10-08
+366,Poor who start,Tony Knight,Romance,14.85,709,10528.65,2024-08-27
+367,Official way treatment,Jesse Taylor,Mystery,41.5,483,20044.5,2025-01-20
+368,Reveal certain,Jackie Sanchez,Fantasy,45.82,443,20298.26,2024-11-18
+369,Machine baby itself take,David Gonzalez,Self-Help,37.29,528,19689.12,2025-01-11
+370,New I actually simply,Eric Brown,Non-Fiction,44.05,795,35019.75,2025-01-25
+371,Green show,John Parks,Non-Fiction,27.26,838,22843.88,2025-03-07
+372,Involve major thought,David Mendez,Mystery,26.59,924,24569.16,2025-03-29
+373,Sort weight after,Tina Lopez PhD,Mystery,19.62,846,16598.52,2025-05-29
+374,Lose much which western conference,Janice Joseph PhD,Sci-Fi,7.02,803,5637.06,2024-09-18
+375,Quite simply consumer,Jessica Franklin,Sci-Fi,13.6,997,13559.2,2024-09-21
+376,Reflect technology every letter piece,Jeremy Arnold,Non-Fiction,30.94,448,13861.12,2024-12-24
+377,Certainly around suddenly beautiful,Phillip Deleon,Mystery,31.08,863,26822.04,2024-10-14
+378,Base raise continue,Darlene Gonzalez,Self-Help,8.66,183,1584.78,2025-07-26
+379,Raise take tend,Steven Harris,Business,18.31,318,5822.58,2025-04-25
+380,Behind yourself,Michael Soto,Fantasy,12.75,656,8364.0,2024-12-12
+381,Who example better,Teresa Ayers,Business,47.41,280,13274.8,2025-05-24
+382,Respond religious,Amanda Flores,Business,30.04,221,6638.84,2024-12-27
+383,High official scene cause success,Anthony Guzman,Fiction,15.35,335,5142.25,2024-12-27
+384,Yourself safe focus,Charles Carson,Mystery,37.01,512,18949.12,2024-12-21
+385,Toward save trouble,Ashley Thompson,Romance,42.88,526,22554.88,2025-02-28
+386,Buy billion couple bank themselves,Jim Hampton,Fantasy,12.91,860,11102.6,2024-10-29
+387,Discussion cup special,Amber Pierce,Non-Fiction,12.64,748,9454.72,2025-01-02
+388,Especially why understand,Jeffery Garcia,Fantasy,23.67,190,4497.3,2025-06-26
+389,Provide instead always bank but,Patrick Wilkinson,Fiction,19.22,411,7899.42,2025-05-14
+390,Foreign try,Lindsey Burton,Fiction,36.31,789,28648.59,2025-05-09
+391,Professional interview when,Emily Hernandez,Non-Fiction,35.06,286,10027.16,2025-04-18
+392,Yard determine dark until,Amanda Henry,Fantasy,42.17,637,26862.29,2025-04-09
+393,Strong base represent itself,Natalie Mendoza,Fantasy,12.18,630,7673.4,2025-06-26
+394,Network fund,Whitney Rivers,Self-Help,9.51,534,5078.34,2025-06-25
+395,Decide raise federal financial,Jessica Bennett,Self-Help,28.54,997,28454.38,2025-02-06
+396,Happen remain might off,Stephanie Ellis,Fiction,20.55,183,3760.65,2025-04-04
+397,Community thus ask help,Alan Richardson,Sci-Fi,17.45,458,7992.1,2025-06-26
+398,If decision impact customer,Brandon Taylor,Non-Fiction,16.9,522,8821.8,2025-03-16
+399,Expect American debate exist,William Allen,Fiction,28.49,593,16894.57,2024-09-14
+400,Reality seek determine,Jennifer Santos,Romance,44.59,984,43876.56,2025-07-01
+401,These system call,Christopher Davis,Sci-Fi,42.99,986,42388.14,2024-10-21
+402,Stock television,Julie Robertson,Romance,38.67,650,25135.5,2025-02-26
+403,Green sort whether quality,Kathleen Turner,Business,41.79,272,11366.88,2025-03-23
+404,After down start,Eric Kemp,Fantasy,9.18,912,8372.16,2024-12-10
+405,Sometimes available reflect pressure,Joel Ramirez,Self-Help,22.63,886,20050.18,2025-07-28
+406,About out huge gun read,Angela Bowers,Fantasy,12.86,107,1376.02,2025-06-23
+407,Pattern throw garden but thought,David Gillespie,Business,21.34,473,10093.82,2024-09-02
+408,Next cause at none,Carol Hernandez,Business,8.18,736,6020.48,2025-01-17
+409,Drug put letter,Craig Reed,Non-Fiction,6.52,572,3729.44,2024-11-02
+410,World police talk,Mary Crawford,Fiction,31.58,736,23242.88,2025-04-28
+411,Agree billion this through,Amber Pierce,Fantasy,26.75,179,4788.25,2025-06-29
+412,Deal reason gas ball,Brenda Ward,Fiction,30.07,235,7066.45,2024-09-19
+413,Control wife,Andrew Jones,Mystery,7.54,89,671.06,2025-04-12
+414,Network city whether,Devin Griffin,Self-Help,44.38,865,38388.7,2024-12-27
+415,Project issue poor,Christopher Coleman,Non-Fiction,22.55,759,17115.45,2024-08-30
+416,Such land compare scientist city,Kathy Graves,Self-Help,32.49,623,20241.27,2024-12-15
+417,Term example control,Stephanie Walker,Fiction,12.81,800,10248.0,2024-12-25
+418,Born accept prove number,Michael Jones,Mystery,32.24,824,26565.76,2025-05-07
+419,Somebody imagine any word after,Shawn Shah,Self-Help,12.11,946,11456.06,2024-10-05
+420,Book notice image candidate,Karen Morgan,Fantasy,23.17,450,10426.5,2024-12-07
+421,Forget hair rest just,Ryan Fowler,Non-Fiction,21.09,224,4724.16,2025-07-31
+422,Strong conference back help down,Gabriela Morris,Romance,38.26,884,33821.84,2025-05-08
+423,Expert gas book attack street,Wendy Walker,Mystery,43.75,122,5337.5,2025-02-14
+424,Full something,Sarah Dudley,Romance,18.8,511,9606.8,2025-06-07
+425,Person oil tough debate lot,Rachel Santana,Fiction,20.62,466,9608.92,2024-10-30
+426,Pattern clear voice,Nathan Morris,Fantasy,36.77,232,8530.64,2025-03-23
+427,Democrat all suddenly skill whose,Michelle Weaver,Fiction,36.43,941,34280.63,2024-09-22
+428,Rock section see store,Stephanie Lewis,Sci-Fi,46.8,359,16801.2,2024-12-23
+429,Challenge white trouble pressure realize,Edward Fields,Romance,45.73,744,34023.12,2025-04-30
+430,True government fine,Adam Edwards,Mystery,29.84,391,11667.44,2025-07-09
+431,Tonight much example ready,Allison Jackson,Sci-Fi,28.21,58,1636.18,2025-01-05
+432,Industry media forget drug,April Garcia,Fiction,19.2,913,17529.6,2024-10-23
+433,Animal point natural performance,Valerie Diaz,Romance,34.37,470,16153.9,2024-08-30
+434,Star government rich every respond,Stephen Hall,Self-Help,5.23,975,5099.25,2025-02-09
+435,Responsibility bank capital,Nichole Brown,Romance,7.7,833,6414.1,2025-06-30
+436,Vote part,Ronald Romero,Non-Fiction,15.0,95,1425.0,2024-08-30
+437,Opportunity bill still another,Emma Hurst,Business,20.54,367,7538.18,2025-05-20
+438,Quite often behind model,John Sweeney,Fiction,46.03,233,10724.99,2024-09-22
+439,As daughter provide,Tammy Hodges,Business,17.37,315,5471.55,2024-10-08
+440,Hundred machine real property,Michael Gonzalez,Sci-Fi,9.58,546,5230.68,2025-05-28
+441,Ready place represent part role,Christopher Martinez,Romance,15.19,418,6349.42,2024-10-14
+442,Sense country,Christopher Perkins,Self-Help,19.57,138,2700.66,2025-06-23
+443,Save site scientist view,Joseph Valdez,Romance,42.39,687,29121.93,2024-08-27
+444,Design often they here,Chris Lee,Non-Fiction,45.36,400,18144.0,2025-06-04
+445,Fast late face,Douglas Henry,Self-Help,40.61,338,13726.18,2025-07-16
+446,Return somebody keep today just,Carolyn Foster,Romance,29.84,191,5699.44,2025-04-09
+447,Feel floor partner,Sarah Wise,Mystery,34.04,729,24815.16,2025-08-17
+448,Everyone always often,Timothy Burns,Self-Help,6.92,598,4138.16,2025-08-03
+449,Maintain very inside pick,Ronald Smith,Fantasy,11.14,665,7408.1,2024-12-29
+450,Recently ago agreement,Thomas Morris,Business,16.98,612,10391.76,2024-12-20
+451,Federal tell who wear affect,Jacob Brooks,Fantasy,10.42,575,5991.5,2025-08-05
+452,Parent civil get finish,Theresa Harris,Fiction,18.76,829,15552.04,2025-04-06
+453,Always appear indicate,Jennifer Martinez,Fiction,32.66,299,9765.34,2025-02-14
+454,Inside capital threat actually,Dale Miller,Fantasy,9.11,595,5420.45,2024-10-05
+455,Language up chance house raise,Kathy Maldonado,Sci-Fi,18.45,837,15442.65,2025-03-14
+456,Necessary friend on,Larry Hall,Business,19.47,230,4478.1,2024-09-08
+457,Next opportunity continue management,Christopher Hughes,Romance,35.2,673,23689.6,2025-03-03
+458,Idea despite usually after unit,Michelle Sanders,Romance,6.7,658,4408.6,2025-05-22
+459,Point campaign including,John Richardson,Mystery,26.92,624,16798.08,2025-05-19
+460,There beat player democratic positive,Jeffrey Wilson,Fantasy,28.03,224,6278.72,2025-02-09
+461,Bill husband house,Clifford Meyer,Business,41.79,117,4889.43,2024-08-23
+462,Nearly system forward bank,Jason Johnson,Mystery,28.21,251,7080.71,2025-04-06
+463,Decide look accept,Philip Owens,Fiction,25.47,697,17752.59,2025-07-23
+464,Must skill police development,Christina Reyes,Mystery,33.82,949,32095.18,2025-08-15
+465,Line consumer here station,Jeff Smith,Self-Help,21.62,592,12799.04,2024-10-30
+466,Between drug raise machine chance,Elizabeth Lawrence,Sci-Fi,8.34,111,925.74,2024-11-14
+467,Claim protect nice discover,Anthony Collier Jr.,Fiction,18.75,384,7200.0,2025-04-24
+468,Never its,Joshua Levine MD,Self-Help,40.74,636,25910.64,2025-08-15
+469,Second last including bring,Lisa Johnson,Sci-Fi,24.57,423,10393.11,2025-07-06
+470,Sometimes role thought way,Mrs. Kellie Martin DVM,Fantasy,29.33,836,24519.88,2024-10-26
+471,Sure edge western positive,Ronald Lam,Mystery,7.03,381,2678.43,2025-05-29
+472,Southern meeting mean talk,Brady Ramirez,Sci-Fi,47.83,932,44577.56,2025-04-23
+473,Per entire first,Danielle Johnson,Self-Help,27.62,670,18505.4,2025-07-02
+474,Me decade best product,Brian Murillo,Sci-Fi,27.96,695,19432.2,2024-09-14
+475,Few create radio kind,David Zhang,Fiction,37.06,392,14527.52,2025-07-04
+476,Risk series everything range,Mark Wade,Sci-Fi,20.95,255,5342.25,2024-11-03
+477,First such behavior,Michelle Baldwin,Mystery,40.56,222,9004.32,2024-10-15
+478,Middle friend feel everything,Andrew Herring,Romance,37.36,568,21220.48,2025-04-26
+479,Series training also mother play,Tracy Robinson,Fiction,49.27,652,32124.04,2025-03-29
+480,Table effect,Joseph Thomas,Business,16.95,509,8627.55,2025-01-22
+481,Water shoulder plant,Brandon Harris,Non-Fiction,46.57,547,25473.79,2024-09-16
+482,Purpose push wind,Michael Stewart,Self-Help,11.17,743,8299.31,2025-01-03
+483,Board north remain home,Meghan Woods,Fiction,40.04,417,16696.68,2025-01-25
+484,Happen group western trouble live,Jimmy Fisher,Fiction,49.5,298,14751.0,2025-03-20
+485,Military space,Gary Reynolds,Self-Help,44.71,938,41937.98,2024-12-23
+486,According return city figure address,Gerald Martin,Business,34.13,733,25017.29,2025-02-02
+487,Behavior build natural,Molly Burke,Self-Help,5.12,514,2631.68,2025-05-26
+488,Shoulder cause have,Tyler Jones,Sci-Fi,29.45,982,28919.9,2024-10-12
+489,Table factor describe control goal,John Lynch,Self-Help,11.09,75,831.75,2025-05-12
+490,Opportunity however,Mary Reeves,Non-Fiction,8.04,830,6673.2,2024-09-13
+491,Human party,Brandon Black,Fiction,26.64,588,15664.32,2025-05-06
+492,No enjoy Democrat yard,Mrs. Samantha Brooks MD,Fantasy,22.85,454,10373.9,2024-10-29
+493,Weight teach social,Jennifer Kline,Self-Help,35.95,160,5752.0,2025-03-11
+494,Method citizen between,Emily Gomez,Sci-Fi,7.4,185,1369.0,2024-12-03
+495,Offer edge return defense view,James Martin,Mystery,12.42,298,3701.16,2024-11-15
+496,Create type skill,Joseph Gibson,Non-Fiction,9.0,833,7497.0,2025-04-07
+497,Affect feeling position now music,Stanley Hoffman,Fiction,29.34,634,18601.56,2024-12-05
+498,Itself win doctor program,Jeffrey Wilkinson,Fiction,47.46,392,18604.32,2024-11-13
+499,Member anything report research boy,Gabriel Crane,Non-Fiction,37.63,479,18024.77,2024-09-09
+500,Reach wonder next,Edgar Blake,Romance,20.0,626,12520.0,2024-11-18
+501,Pay argue stand,Victoria Owens,Sci-Fi,32.38,92,2978.96,2024-10-25
+502,Water us send program,Samantha Kramer,Self-Help,13.18,452,5957.36,2024-12-06
+503,Process economy,Jordan Carey,Business,42.61,99,4218.39,2024-10-30
+504,Window seat central,James Peterson,Business,40.28,550,22154.0,2025-08-09
+505,War its,Teresa Dixon,Mystery,39.45,183,7219.35,2025-05-13
+506,Little style organization,Ashley Jones,Self-Help,35.02,616,21572.32,2024-11-15
+507,Yes project issue hospital all,Patricia Ortega,Sci-Fi,24.83,198,4916.34,2025-07-18
+508,Safe night end another feel,Sharon Garcia,Non-Fiction,27.14,205,5563.7,2025-04-22
+509,Yeah main,Sara Frank,Fiction,14.49,383,5549.67,2024-08-29
+510,Street under,Jamie Roberts,Fiction,7.58,146,1106.68,2025-04-25
+511,Week week travel,Sheri Cole,Sci-Fi,23.8,651,15493.8,2025-03-30
+512,Too concern form,Mark Miller,Mystery,46.67,76,3546.92,2025-08-09
+513,Trade unit right day,Antonio Schneider,Non-Fiction,38.06,240,9134.4,2025-03-23
+514,Mean off system letter,Timothy Solis,Fiction,49.2,978,48117.6,2025-03-29
+515,Benefit over accept,Heather Fisher,Romance,11.51,684,7872.84,2024-10-09
+516,Country fast market house,William Cunningham,Mystery,16.62,547,9091.14,2024-09-28
+517,Win successful bag specific,Joseph Stone,Mystery,15.81,185,2924.85,2025-03-05
+518,Treat hit enter book,James Smith,Self-Help,15.93,527,8395.11,2024-09-16
+519,Black create,Gloria Griffin,Fantasy,30.44,773,23530.12,2025-06-18
+520,Summer size,Dr. Taylor Garcia,Mystery,24.92,169,4211.48,2025-06-09
+521,Popular month number who nice,Stanley Allen,Romance,43.47,939,40818.33,2025-01-13
+522,Accept require head whole,Mrs. Cassandra Oliver,Fantasy,27.59,562,15505.58,2025-03-10
+523,Table election cup,Omar Webster,Fantasy,42.25,854,36081.5,2025-08-01
+524,Garden individual drive,Ronald Rush,Self-Help,10.34,278,2874.52,2025-03-12
+525,Future second ready,Jennifer White,Fiction,42.45,549,23305.05,2024-10-22
+526,Radio partner these threat,Michael Goodman,Fiction,49.56,163,8078.28,2025-05-18
+527,Learn summer push,Alicia Pace,Sci-Fi,43.17,952,41097.84,2025-01-25
+528,Situation long close animal,Betty Vang,Non-Fiction,47.26,270,12760.2,2025-01-23
+529,Pick may explain type school,Danielle Middleton,Fantasy,35.78,545,19500.1,2025-06-11
+530,Personal leader organization sure,Jasmine Stewart,Mystery,24.84,321,7973.64,2024-10-01
+531,Letter quality edge painting,Michael Padilla,Mystery,37.78,923,34870.94,2025-05-07
+532,Clear statement someone guess,Kenneth Ray,Mystery,5.56,504,2802.24,2025-08-05
+533,Different recognize interview,Sean Peterson,Sci-Fi,21.78,644,14026.32,2025-08-18
+534,Report treatment,Richard Marquez,Business,31.85,414,13185.9,2025-07-08
+535,Generation ten,Carolyn Price,Non-Fiction,21.75,311,6764.25,2024-12-06
+536,Ability number until thus,Brent Lee,Business,23.28,758,17646.24,2025-01-19
+537,Citizen door authority,Darryl Melton,Self-Help,41.75,780,32565.0,2024-11-26
+538,Position own site during account,Theresa Murphy,Sci-Fi,40.68,65,2644.2,2025-02-13
+539,Outside call old always enjoy,Nicole Stewart,Mystery,26.78,954,25548.12,2025-02-19
+540,Body bit onto,Matthew Hamilton,Non-Fiction,46.25,79,3653.75,2025-04-29
+541,Common nor,Elaine Ware,Business,34.55,495,17102.25,2025-08-11
+542,Very month church himself lead,Stephen Blair,Business,47.75,760,36290.0,2024-09-14
+543,Bar couple,Jennifer Myers,Sci-Fi,29.61,524,15515.64,2025-04-18
+544,Again section account,Lindsey Hernandez,Fantasy,31.37,932,29236.84,2024-12-11
+545,Phone pretty my them,Danny Thomas,Self-Help,18.67,153,2856.51,2025-07-01
+546,Fast manage edge if executive,Mark Hall,Mystery,11.64,633,7368.12,2024-12-03
+547,Production wife,Nicholas Moody,Business,28.01,293,8206.93,2025-03-18
+548,Low grow,Robert Thompson,Fiction,7.75,115,891.25,2025-06-08
+549,Center executive most involve,Katherine Guerrero,Business,14.0,263,3682.0,2024-11-23
+550,A wish sell series,Ryan Berry,Romance,34.49,933,32179.17,2025-03-25
+551,Make hospital third Democrat,David Carney,Fantasy,40.02,379,15167.58,2025-04-12
+552,Film someone worker,Louis Walton,Self-Help,31.87,891,28396.17,2025-07-13
+553,Teacher hair process trial level,Molly Hoffman,Romance,16.69,902,15054.38,2025-05-16
+554,Best minute least month,Kevin Gates,Fiction,49.88,603,30077.64,2024-12-10
+555,Medical phone both,Angela Ballard,Non-Fiction,12.38,867,10733.46,2025-04-04
+556,President quite form ahead,Heather Cox,Romance,44.51,513,22833.63,2024-09-02
+557,Edge miss keep his,Jonathan Smith,Fiction,18.77,322,6043.94,2025-01-30
+558,Research area last voice,Ronald Green,Business,25.33,865,21910.45,2025-02-28
+559,Trial argue,Jason Morales,Sci-Fi,23.57,236,5562.52,2024-12-27
+560,Nothing particular whether,Tracey Larson,Fantasy,37.18,207,7696.26,2025-06-07
+561,Medical show,William Mills,Mystery,6.38,740,4721.2,2025-02-19
+562,Congress conference many clear hot,Mrs. Sarah Fletcher MD,Mystery,36.45,265,9659.25,2025-04-20
+563,Relationship know information,Marvin Evans PhD,Fantasy,22.67,524,11879.08,2025-05-03
+564,Other write anyone defense fire,Robert White,Sci-Fi,28.49,222,6324.78,2024-08-20
+565,Drop government these become,Robert Mcgrath,Mystery,10.77,102,1098.54,2025-03-22
+566,Set with pull member,Richard Aguirre,Mystery,27.65,176,4866.4,2024-11-07
+567,Take by,Matthew Bailey,Romance,12.13,136,1649.68,2025-07-10
+568,Ok such,Elizabeth Jackson,Business,15.95,273,4354.35,2025-07-31
+569,Other nor young fall head,Vincent Collins,Fantasy,25.16,407,10240.12,2025-04-21
+570,World address government experience,Kimberly Hill,Self-Help,45.8,239,10946.2,2025-01-23
+571,Great however reality animal school,Kathy Williams PhD,Business,26.62,302,8039.24,2024-11-05
+572,Open around,Rebecca Wilson,Mystery,12.91,863,11141.33,2024-09-16
+573,Much international full,Tracy Browning,Mystery,12.46,673,8385.58,2025-03-10
+574,Bank weight,Jessica Simon,Business,11.56,935,10808.6,2024-11-24
+575,Work natural,Deborah Schwartz,Fantasy,34.11,657,22410.27,2025-01-29
+576,Third themselves mission scene American,Mark Short,Self-Help,19.67,775,15244.25,2024-12-25
+577,Crime remember general opportunity,Claire Morales,Self-Help,47.61,785,37373.85,2025-03-23
+578,Officer size go thus us,Jim Rhodes,Non-Fiction,19.35,637,12325.95,2025-04-16
+579,These beautiful,Bryan Martin,Business,18.66,648,12091.68,2024-10-22
+580,Research mission protect sea,Michele Romero,Fiction,11.43,111,1268.73,2025-01-09
+581,Leg may career course education,Preston Gaines,Sci-Fi,35.39,395,13979.05,2025-02-19
+582,Event full certain rock,David Williams,Fiction,37.6,83,3120.8,2025-06-12
+583,Girl window strategy western,Jamie Jones,Self-Help,14.23,56,796.88,2024-12-19
+584,Certain still start nice,Donald White,Romance,27.09,956,25898.04,2024-09-09
+585,Behavior rest into,Caleb Wright,Fiction,23.18,290,6722.2,2024-09-28
+586,Town process,Brandy Davis,Non-Fiction,32.07,266,8530.62,2024-09-02
+587,Want social subject game south,Laura Landry,Romance,16.33,660,10777.8,2024-10-12
+588,Coach single brother,Daniel Santiago,Romance,5.52,384,2119.68,2025-05-28
+589,As agreement far,Tammy Salazar,Non-Fiction,17.88,109,1948.92,2025-01-26
+590,Half three service cut,Patrick Shaw,Self-Help,31.32,398,12465.36,2025-07-11
+591,Enough pass contain,Maria Huang,Romance,45.14,569,25684.66,2025-03-29
+592,Yourself toward,Lisa Kim,Non-Fiction,32.19,558,17962.02,2025-02-26
+593,Identify paper himself street water,Taylor Newman,Self-Help,23.45,936,21949.2,2025-05-14
+594,Move adult put,Deanna Thompson,Self-Help,16.8,338,5678.4,2025-03-17
+595,Media quickly talk skill,Timothy Richardson,Self-Help,44.86,633,28396.38,2024-09-02
+596,Painting nearly mention,Eric Smith,Non-Fiction,5.07,628,3183.96,2025-01-16
+597,Knowledge this,Benjamin Silva,Self-Help,16.08,368,5917.44,2024-09-15
+598,Citizen study election others industry,Christopher Miller,Self-Help,8.75,423,3701.25,2025-01-13
+599,Remember see shake turn,Annette Ramirez,Business,13.53,551,7455.03,2025-01-09
+600,Government maybe trade knowledge,Robert Parker,Fiction,19.01,759,14428.59,2025-03-03
+601,Common back foot tonight,John Mills,Mystery,35.99,255,9177.45,2024-09-07
+602,Amount feel man,Pamela Robinson,Self-Help,38.24,695,26576.8,2024-09-19
+603,Yeah language must,Nathaniel Pittman,Business,21.37,816,17437.92,2024-11-16
+604,Fire camera century court design,Jessica Vaughn,Business,19.25,569,10953.25,2025-08-01
+605,Pm administration,Todd Wheeler MD,Mystery,17.76,540,9590.4,2024-10-10
+606,Society type toward moment,Chris Green,Romance,22.84,391,8930.44,2025-03-27
+607,Other after upon much indeed,Tyler Soto,Sci-Fi,11.69,534,6242.46,2025-06-15
+608,According ability list couple bad,Kenneth Miller,Self-Help,23.73,76,1803.48,2024-09-18
+609,Choose election machine state,Darrell Wood,Self-Help,45.11,507,22870.77,2025-06-17
+610,Congress turn become son,Richard Dawson,Self-Help,43.1,944,40686.4,2024-12-22
+611,Ahead something machine,Connie Taylor,Romance,23.35,76,1774.6,2024-08-23
+612,Make probably power culture professor,Christina Tapia,Non-Fiction,11.86,471,5586.06,2024-10-21
+613,Way more debate,Linda Mclaughlin,Non-Fiction,45.51,207,9420.57,2025-02-01
+614,Enter care brother example though,Brent Long,Sci-Fi,26.49,957,25350.93,2025-06-09
+615,Life agent PM big surface,Candice Coleman,Business,37.05,740,27417.0,2025-03-23
+616,Picture necessary commercial indeed,Michelle Bradford,Sci-Fi,14.47,634,9173.98,2024-09-01
+617,Loss between future firm,Walter Smith,Self-Help,20.29,374,7588.46,2024-09-16
+618,See deal,Lori Heath,Romance,27.11,730,19790.3,2025-01-08
+619,Experience radio,Alyssa Gilbert,Fantasy,8.71,104,905.84,2024-11-17
+620,Color single keep power six,Kristen Lopez,Mystery,15.85,391,6197.35,2025-03-21
+621,Officer into,Mia Henderson,Fiction,5.56,264,1467.84,2024-08-31
+622,Look land store relationship theory,Randy Kennedy,Business,34.35,473,16247.55,2025-02-10
+623,Building under dream white political,Alyssa White,Romance,44.93,979,43986.47,2024-09-08
+624,Environmental center threat person,John Oneal,Non-Fiction,7.74,286,2213.64,2025-01-29
+625,Little myself tonight,Dylan Farley,Non-Fiction,15.7,376,5903.2,2024-12-04
+626,Physical page charge nearly,Patricia Owen,Sci-Fi,21.69,506,10975.14,2025-07-06
+627,Experience piece,Terry Sharp,Fiction,32.76,811,26568.36,2025-05-17
+628,Black human fund,Bridget Brown,Fantasy,18.31,796,14574.76,2025-04-23
+629,Room decide brother over act,Nicholas Myers,Mystery,6.12,175,1071.0,2025-03-05
+630,Different determine may,Stacey Terry,Self-Help,22.56,216,4872.96,2025-07-07
+631,Should environment four she job,Troy Mendoza,Business,6.33,733,4639.89,2025-02-05
+632,A detail could total,Philip Allen,Non-Fiction,23.59,99,2335.41,2025-02-08
+633,Thing attention job,Adam Thompson,Fantasy,42.43,384,16293.12,2025-04-14
+634,Single say teach keep,Anthony Spencer,Business,23.71,718,17023.78,2025-02-25
+635,Popular major stand,Wendy Salinas,Fiction,38.2,662,25288.4,2024-10-29
+636,Whose box,Valerie Barnes,Business,35.34,120,4240.8,2025-08-10
+637,Specific sing machine blood,Mike Williams,Fiction,10.87,355,3858.85,2024-11-22
+638,Article country enjoy,Angela Stone,Self-Help,20.92,648,13556.16,2024-11-10
+639,Opportunity decide seek when church,Chad Perez,Romance,42.08,954,40144.32,2025-02-04
+640,Sport prove paper board still,Michael Nelson,Business,25.99,239,6211.61,2024-11-13
+641,Water value seven,Judith Rodriguez,Business,38.73,436,16886.28,2024-12-16
+642,To through become note,Spencer Edwards,Business,48.13,564,27145.32,2024-10-08
+643,Art baby,Jaime Ortiz,Non-Fiction,30.49,155,4725.95,2025-07-07
+644,Score model end,Patricia Ball,Sci-Fi,40.48,195,7893.6,2024-12-27
+645,Piece through page miss,Mary Stone,Non-Fiction,20.64,503,10381.92,2025-02-23
+646,Find grow at low with,Randy Vega,Fiction,12.12,429,5199.48,2025-07-21
+647,Above against how best,Angela Cobb,Sci-Fi,22.09,254,5610.86,2025-06-19
+648,Interesting guy no itself,Patrick Berry,Self-Help,37.9,216,8186.4,2025-05-09
+649,Religious wide,Brittney Brown,Fantasy,32.1,614,19709.4,2025-05-26
+650,Detail wind challenge thought business,Tina Mccoy,Non-Fiction,14.91,915,13642.65,2024-09-10
+651,Sit wish budget health,Ronald Middleton,Business,44.03,875,38526.25,2025-06-05
+652,Mr country lead,Mr. Kyle Kline,Fantasy,9.41,802,7546.82,2025-05-22
+653,Piece point stop,Rodney Phillips,Mystery,20.31,134,2721.54,2025-02-03
+654,Here level camera lead,Lorraine Gill,Non-Fiction,42.76,557,23817.32,2025-06-22
+655,Need similar maintain successful pattern,Christopher Duncan,Romance,10.02,962,9639.24,2024-11-15
+656,Not four front she,Nicholas Rojas,Fiction,48.22,424,20445.28,2025-01-31
+657,Make expert once tell,Cory Spencer,Self-Help,43.34,380,16469.2,2025-04-25
+658,Across capital,Gregory Jones,Fantasy,14.88,975,14508.0,2025-07-30
+659,Firm land individual,Kevin Nguyen,Non-Fiction,16.3,821,13382.3,2024-09-26
+660,Season piece test bad quite,Jordan Gray,Romance,39.53,222,8775.66,2025-03-04
+661,Action without person,Brooke Mclaughlin,Romance,20.12,649,13057.88,2024-10-16
+662,Store factor collection song,Thomas Ramirez,Romance,42.39,431,18270.09,2025-07-04
+663,Can theory floor growth make,Michael Roman,Self-Help,41.67,609,25377.03,2024-11-06
+664,Huge short continue,Alexander Contreras,Non-Fiction,11.28,206,2323.68,2024-08-26
+665,So decision ago box affect,Peter Schmidt,Non-Fiction,45.91,578,26535.98,2025-06-13
+666,Write amount brother compare station,Erin Mitchell,Non-Fiction,29.53,67,1978.51,2025-07-05
+667,Skill develop,Angela Ramirez,Business,42.73,887,37901.51,2024-08-22
+668,Ever type heart learn day,Dr. Alexandra Roach,Self-Help,24.54,820,20122.8,2024-10-24
+669,Staff maybe whole center,Victor Williams,Sci-Fi,31.54,648,20437.92,2025-02-15
+670,List success enjoy TV,Heather Todd,Self-Help,20.85,172,3586.2,2025-05-22
+671,Officer able difference large sort,Andrea Lopez,Sci-Fi,24.7,176,4347.2,2024-09-15
+672,Major yourself town,David Stokes,Non-Fiction,36.8,106,3900.8,2025-06-24
+673,Month because thank away,Sue Ibarra,Sci-Fi,27.28,897,24470.16,2024-09-03
+674,Art guess natural thought sea,Tracy Thompson,Romance,34.07,812,27664.84,2025-07-08
+675,Sort single,Robert Garcia,Mystery,33.2,115,3818.0,2025-01-19
+676,Order different,Kelly Anderson,Non-Fiction,16.6,785,13031.0,2025-05-25
+677,Fly live fall,Dr. Kristen Palmer DDS,Fantasy,14.42,548,7902.16,2025-03-12
+678,Lawyer nature ability later,Alison Long,Mystery,14.23,347,4937.81,2024-11-24
+679,War among huge,Jennifer Davis,Self-Help,12.99,946,12288.54,2024-10-30
+680,Technology government education finish,Jessica Smith,Sci-Fi,40.44,591,23900.04,2025-07-16
+681,Go lead glass,Christine Montgomery,Self-Help,38.25,941,35993.25,2025-06-13
+682,Magazine PM class Congress,Eric Kirby,Romance,9.68,219,2119.92,2025-03-11
+683,Mr laugh room,Crystal Hoover,Self-Help,21.63,909,19661.67,2025-08-13
+684,Cell treatment wait energy,Jeffrey Beck,Romance,12.73,121,1540.33,2025-03-11
+685,Life their,Aaron Williams,Romance,46.29,599,27727.71,2024-12-10
+686,Grow general thing,Jacob Bowman,Business,32.07,984,31556.88,2025-08-17
+687,Within popular action,Jenna Ramirez,Non-Fiction,42.57,908,38653.56,2025-07-06
+688,Cover partner both government someone,Teresa Brewer,Non-Fiction,27.02,708,19130.16,2025-06-23
+689,Lawyer wide thousand mouth,Rachel Holt,Sci-Fi,24.25,345,8366.25,2024-12-08
+690,Similar size what couple,Michelle Williams,Business,19.3,233,4496.9,2025-07-07
+691,Painting system rule billion,Jessica Flores,Self-Help,24.72,899,22223.28,2024-12-28
+692,Clear soon by else,Scott Brown,Self-Help,10.74,898,9644.52,2024-09-18
+693,Ground everybody animal develop,Danny Woodard,Sci-Fi,42.71,775,33100.25,2025-02-19
+694,Agency low give shake,Scott Jacobs,Business,32.35,860,27821.0,2024-10-25
+695,Interview road nothing practice,Christopher Webb,Fiction,29.68,776,23031.68,2025-05-07
+696,Finish sport,Steven Bryant,Business,23.49,968,22738.32,2024-11-16
+697,Law we town line film,Blake Williams,Mystery,37.65,910,34261.5,2024-12-31
+698,Mother campaign control physical option,James Briggs,Fiction,10.17,426,4332.42,2025-07-22
+699,Require draw support cause family,Steven Morris,Romance,24.05,854,20538.7,2024-09-21
+700,National energy name,Jacob Wood,Fiction,39.32,451,17733.32,2024-09-20
+701,Finish many appear board language,Kimberly Hanson,Business,14.89,834,12418.26,2024-11-21
+702,Different carry financial hear moment,Jessica Hayes,Fiction,8.39,731,6133.09,2024-10-02
+703,Skin Mr hotel,Christopher Richardson,Self-Help,16.92,499,8443.08,2024-08-23
+704,Power cold finish trouble,Tracy Hoover,Romance,27.82,763,21226.66,2025-07-04
+705,Recent try clearly thought personal,Janice Cook,Mystery,9.01,394,3549.94,2025-02-22
+706,Give democratic,Ryan Camacho,Fiction,22.88,82,1876.16,2025-01-18
+707,Six although lead want,Joseph Barnes,Mystery,14.48,264,3822.72,2025-07-23
+708,Night carry get condition,Alexander Lee,Business,48.62,90,4375.8,2025-06-28
+709,Pressure cut give security,Calvin Kemp,Fantasy,18.17,303,5505.51,2025-02-19
+710,Loss outside step,Justin Tyler,Business,17.94,128,2296.32,2024-11-29
+711,Serious hope shake,Holly Parker,Self-Help,48.68,237,11537.16,2025-05-09
+712,Modern would probably part,Dawn Robinson,Self-Help,11.4,427,4867.8,2025-07-05
+713,Open soon,Michael Smith,Fantasy,40.71,874,35580.54,2025-04-12
+714,Area sign so suddenly,Jay Lyons,Romance,12.55,865,10855.75,2024-12-23
+715,Important law prevent should,Jackson Howe,Self-Help,22.8,466,10624.8,2025-04-12
+716,Us company,Christopher Murillo,Mystery,49.76,916,45580.16,2024-11-27
+717,Maybe important investment,Mrs. Jessica Davis,Fiction,16.04,424,6800.96,2025-04-02
+718,Establish present you,Robert Nelson,Sci-Fi,42.98,192,8252.16,2025-03-19
+719,Night system,Karla Wright,Romance,48.37,277,13398.49,2025-01-18
+720,Article five,Andrew Nelson,Fiction,6.85,913,6254.05,2025-07-19
+721,Treat thing total face and,Jose Hill,Mystery,19.91,285,5674.35,2025-07-02
+722,Song that,Shannon Ford,Sci-Fi,5.09,719,3659.71,2024-11-04
+723,Nor manager nation ask great,Nathaniel Stein,Romance,14.62,895,13084.9,2025-07-27
+724,Piece special physical could,Glenn Li,Mystery,22.94,55,1261.7,2024-11-14
+725,So score have road,Rachael Murphy,Fantasy,17.44,343,5981.92,2025-01-12
+726,Rise course list civil parent,Kevin Melendez,Mystery,17.13,337,5772.81,2024-11-03
+727,Couple sell able,Michael Macias,Non-Fiction,17.54,794,13926.76,2024-10-18
+728,Attorney view short,Jordan Singh,Fantasy,43.83,998,43742.34,2025-07-24
+729,Garden rate high will,Hannah Howard,Fiction,21.84,587,12820.08,2025-04-27
+730,Again account,Chad Adams,Business,21.24,700,14868.0,2025-07-06
+731,Middle federal memory,Brittney Bryan,Non-Fiction,43.7,894,39067.8,2024-11-29
+732,Piece support relationship,Benjamin Moore,Romance,9.8,921,9025.8,2025-07-04
+733,No exactly enter opportunity size,Nicole Morse,Self-Help,30.21,469,14168.49,2024-12-27
+734,White tough individual realize country,Edward Washington,Self-Help,24.97,312,7790.64,2024-10-31
+735,Teach certain thought federal money,Felicia Lopez,Non-Fiction,6.02,144,866.88,2025-02-11
+736,Consider choice challenge,Rachel Watts,Self-Help,13.48,692,9328.16,2025-03-26
+737,Yet dinner available international serve,Brian Smith,Romance,30.75,875,26906.25,2025-01-26
+738,Simple land wife suddenly,Dean Fitzpatrick,Sci-Fi,27.61,253,6985.33,2024-11-20
+739,Recognize fire agency,Norman Larsen,Self-Help,27.58,334,9211.72,2025-02-09
+740,Lay election organization moment,Anthony Williams,Fiction,45.71,593,27106.03,2024-09-12
+741,Dark middle expect blood the,Emily Guerrero,Mystery,29.44,984,28968.96,2024-11-18
+742,East sing,Monica Jones,Fantasy,10.51,126,1324.26,2025-01-02
+743,Foreign catch crime several,William Ponce,Non-Fiction,19.07,342,6521.94,2025-04-19
+744,Whatever claim,Brenda Clark,Fiction,29.92,575,17204.0,2025-07-09
+745,Child trip,Heather Turner,Sci-Fi,32.14,352,11313.28,2025-02-25
+746,Speech recently close,Heather Gonzalez,Self-Help,36.15,406,14676.9,2025-06-08
+747,Best push,Danielle Smith,Fantasy,37.9,880,33352.0,2025-06-04
+748,Think through make,Cody Jones,Business,8.96,738,6612.48,2025-06-11
+749,Under sometimes American,Todd Hudson,Mystery,35.57,489,17393.73,2025-03-08
+750,Language until fight,Melanie Parker,Romance,6.72,82,551.04,2024-11-04
+751,National put company her,Marc Wu,Fantasy,18.63,476,8867.88,2024-11-27
+752,Party finish whole,Julia Smith,Mystery,36.44,789,28751.16,2025-02-20
+753,Attention plant reveal,Danielle Munoz,Self-Help,13.48,207,2790.36,2025-01-27
+754,Sea near step,Debbie Torres,Self-Help,24.47,801,19600.47,2025-04-13
+755,Tough car,Derek Hunt,Fiction,18.76,103,1932.28,2025-02-03
+756,Town toward dark pretty appear,Sarah White,Fantasy,5.34,480,2563.2,2025-02-24
+757,Because nearly,Kelly Newman,Mystery,39.59,77,3048.43,2024-09-24
+758,Act down family,Pamela Mitchell,Self-Help,11.47,942,10804.74,2025-06-05
+759,Nature foot old,Jason Henry,Non-Fiction,26.53,716,18995.48,2024-12-06
+760,Draw them run can,Kenneth Wright,Romance,35.51,951,33770.01,2025-07-10
+761,Major even,Christy Thompson,Non-Fiction,19.89,721,14340.69,2024-12-22
+762,Impact thank approach hand actually,Tony Mathis,Business,19.96,772,15409.12,2025-01-07
+763,Have their people talk,James Yang,Business,9.24,299,2762.76,2024-10-10
+764,Industry may ten I water,Melanie Scott,Fantasy,14.68,301,4418.68,2025-07-05
+765,Pattern nor student,Mrs. Donna James,Business,45.18,326,14728.68,2025-08-04
+766,Top see want,David Castillo,Self-Help,35.74,684,24446.16,2024-08-23
+767,Enjoy experience page,Carol Mclean,Fiction,10.29,265,2726.85,2025-01-17
+768,Experience dinner be,Kyle Le,Fiction,45.54,776,35339.04,2024-09-25
+769,Rich south court cover,Joanna Jimenez,Romance,28.07,206,5782.42,2024-09-03
+770,Bill window general,Megan Montgomery,Mystery,25.67,839,21537.13,2025-03-10
+771,Continue decide thought would,Daniel Neal,Business,26.85,81,2174.85,2025-06-11
+772,Way allow happy teacher,Cheryl Fry,Self-Help,19.03,927,17640.81,2025-05-28
+773,Especially beat,Ashley Stuart,Romance,46.96,534,25076.64,2024-12-20
+774,Easy government carry,James Peters,Fantasy,40.67,69,2806.23,2025-02-13
+775,Forward move position answer soldier,Roger Goodman,Self-Help,23.18,900,20862.0,2024-12-05
+776,My race line,Richard Dyer,Sci-Fi,39.13,107,4186.91,2025-03-19
+777,Instead research individual tend,Anthony Richardson,Sci-Fi,12.72,521,6627.12,2025-02-16
+778,Have probably address,Eric Young,Fantasy,18.58,796,14789.68,2025-01-25
+779,Red environmental town because,Megan Peterson,Mystery,6.75,548,3699.0,2025-01-20
+780,Thousand any these evening,Stephanie Logan,Fantasy,26.21,811,21256.31,2025-04-19
+781,Fill bad,Cynthia Barnes,Business,21.14,624,13191.36,2024-11-12
+782,Offer own Congress line,Todd Jones,Romance,23.86,984,23478.24,2025-01-11
+783,Parent visit,Mitchell Phillips,Business,9.68,278,2691.04,2025-01-22
+784,Owner response them instead,Jacob Turner,Fantasy,39.47,515,20327.05,2024-12-09
+785,Lot its field way,Kenneth Terry PhD,Mystery,35.11,871,30580.81,2025-02-11
+786,Section age opportunity,Kevin Bell,Self-Help,36.31,327,11873.37,2025-03-06
+787,While everything at,Matthew Macias,Mystery,36.21,113,4091.73,2025-03-14
+788,Boy argue career,Angela Levy,Romance,16.09,878,14127.02,2025-07-29
+789,Check real police yourself travel,Tiffany Barrett,Romance,30.28,688,20832.64,2025-03-27
+790,Offer because would,Courtney Savage,Non-Fiction,11.82,536,6335.52,2025-01-26
+791,Clear American take,Kristin Copeland,Romance,40.06,791,31687.46,2024-09-28
+792,Speak lawyer hard,Chelsea Koch,Self-Help,45.72,741,33878.52,2025-01-20
+793,Or population table happy,James Ross,Mystery,27.24,290,7899.6,2025-02-12
+794,Yes poor fly rich,Meghan Freeman,Fiction,49.35,135,6662.25,2025-01-11
+795,Gas number,John Taylor,Self-Help,24.02,729,17510.58,2025-08-10
+796,Public lay,Sandra Shaw,Sci-Fi,37.88,689,26099.32,2025-07-14
+797,Maintain police guy,Robin Fuentes,Romance,11.82,636,7517.52,2024-12-05
+798,Stay energy shake picture,Wendy Murray,Romance,15.7,741,11633.7,2025-05-27
+799,Likely single three,Stephanie Alvarez,Self-Help,49.92,156,7787.52,2024-10-10
+800,Old throw protect,Christopher Anderson,Mystery,10.71,569,6093.99,2025-07-10
+801,Much sell use,Bridget Gonzales,Sci-Fi,42.51,936,39789.36,2024-09-24
+802,Network leg capital,Candice Zhang,Sci-Fi,36.1,254,9169.4,2024-09-07
+803,Food current officer,Taylor Meadows,Non-Fiction,48.2,174,8386.8,2024-12-25
+804,Medical assume theory,Stephen Hoffman,Romance,22.07,262,5782.34,2025-05-11
+805,Third such human usually,Nicole Small,Self-Help,45.43,254,11539.22,2025-03-30
+806,Money explain smile,Michael Garcia,Business,33.2,999,33166.8,2025-04-04
+807,Also nice word they remember,Dr. James Wilson,Self-Help,41.46,66,2736.36,2025-04-30
+808,Lay ready,Janet Ward,Self-Help,19.98,341,6813.18,2024-09-10
+809,Seem everybody,Heather Giles,Fiction,44.94,94,4224.36,2024-12-16
+810,Campaign read include type,Courtney Craig,Fantasy,35.61,164,5840.04,2024-10-03
+811,Many everything television,Kevin Rowe,Self-Help,44.93,698,31361.14,2024-12-08
+812,Result drop,Brandon Barnes,Romance,24.15,405,9780.75,2025-06-08
+813,After today fund,Marc Reed,Self-Help,49.22,528,25988.16,2024-10-25
+814,Most up event,Melissa Little,Fiction,46.35,844,39119.4,2025-01-26
+815,Act article international across senior,Dr. Joseph Mcclure,Non-Fiction,21.9,395,8650.5,2024-11-08
+816,Require office bag,Jeffrey Turner,Fantasy,49.25,410,20192.5,2025-01-20
+817,Sign occur speech state,Jeffrey Fowler,Mystery,33.6,159,5342.4,2024-09-11
+818,Wish deep,Michael Rowland,Romance,32.67,682,22280.94,2024-09-01
+819,Challenge could brother,Nathaniel Powers,Business,35.88,235,8431.8,2025-05-13
+820,Appear lawyer kid,Yvonne Smith,Romance,20.14,797,16051.58,2025-03-15
+821,But own when,Jason Chandler,Business,16.11,847,13645.17,2024-12-09
+822,Medical control if can operation,Keith Hill,Self-Help,31.43,648,20366.64,2025-08-15
+823,Between determine health,Maria Middleton,Sci-Fi,13.52,331,4475.12,2025-02-16
+824,Ago arrive watch,John Johnson,Romance,11.85,392,4645.2,2024-10-13
+825,Course yet season worry,Kathy Anderson,Romance,27.48,151,4149.48,2025-07-12
+826,Clearly how standard,Lisa Robertson,Non-Fiction,48.79,713,34787.27,2025-04-09
+827,Collection leader benefit allow,Kelly Huber,Self-Help,37.32,487,18174.84,2025-06-19
+828,Low popular democratic,Mr. Spencer King,Romance,23.65,229,5415.85,2025-07-04
+829,Deep message test tell,Sara Lewis DDS,Self-Help,34.53,724,24999.72,2025-03-22
+830,It particularly,Tasha Woods,Romance,14.96,437,6537.52,2025-01-12
+831,Yard senior,Nancy Smith,Mystery,32.18,94,3024.92,2024-11-14
+832,Another baby,Todd Rose,Fantasy,6.12,424,2594.88,2024-09-20
+833,Yard student color year site,Kathleen Chavez,Fiction,39.42,780,30747.6,2024-12-26
+834,End employee,Michael Griffin,Non-Fiction,7.84,687,5386.08,2025-06-15
+835,Despite party meet,Lorraine Valdez,Fiction,24.87,820,20393.4,2025-04-29
+836,Discover blue beyond,Dustin Walton,Self-Help,19.62,505,9908.1,2024-10-03
+837,Wife listen spring mission,William Ward,Fiction,45.52,219,9968.88,2025-02-26
+838,Wait true television partner,Nicole Mcguire,Fantasy,48.4,117,5662.8,2024-10-15
+839,Those city create management,Dr. Darlene Black,Mystery,45.26,223,10092.98,2025-05-13
+840,Draw foreign notice,Julia Buck,Sci-Fi,40.81,656,26771.36,2025-07-31
+841,Believe PM read,Adam Walker,Mystery,46.76,971,45403.96,2025-02-13
+842,Necessary character standard,Amy Barnes,Self-Help,5.2,823,4279.6,2024-11-23
+843,Hour president analysis,Julie Miller,Business,47.05,120,5646.0,2024-10-03
+844,Of budget whole,Matthew Powell,Non-Fiction,16.05,705,11315.25,2025-08-01
+845,Certain process official bit,Lori Harris,Non-Fiction,40.26,981,39495.06,2025-01-18
+846,Senior billion wrong,Joseph Davis,Sci-Fi,44.91,459,20613.69,2024-12-22
+847,Visit respond learn,Eric Montgomery,Sci-Fi,7.36,936,6888.96,2025-04-29
+848,Various degree early east arrive,Kelly Mullen,Business,40.61,223,9056.03,2025-03-05
+849,Itself employee,Martin Bernard,Sci-Fi,31.18,586,18271.48,2024-10-14
+850,Window girl,Sarah Pugh,Business,18.3,982,17970.6,2025-06-22
+851,Bag cover hospital religious,Erin Berg,Romance,44.13,438,19328.94,2025-02-06
+852,Main interesting reflect speech,Chase Saunders,Self-Help,12.87,785,10102.95,2024-09-23
+853,Organization education view investment,Steve Henderson,Sci-Fi,6.06,178,1078.68,2025-07-09
+854,Simple news plant until,Matthew Ruiz,Sci-Fi,42.43,868,36829.24,2025-02-16
+855,Hot watch,Dr. Juan Vazquez,Self-Help,8.41,459,3860.19,2025-01-22
+856,Me spend join low,Hannah Weaver,Mystery,47.81,632,30215.92,2025-05-31
+857,Up money drug,Donna Phillips,Self-Help,30.62,455,13932.1,2025-08-17
+858,Smile theory tend modern memory,Sarah Thompson PhD,Sci-Fi,24.57,243,5970.51,2025-06-29
+859,Mother campaign job evidence,Kristin Johnston,Self-Help,12.48,145,1809.6,2025-02-19
+860,Sure century turn find,Rebecca Wood,Mystery,21.55,931,20063.05,2025-03-14
+861,Until attorney along three,Jacob Payne DDS,Business,12.33,780,9617.4,2025-01-23
+862,Remember suggest charge war,Robert Robertson,Self-Help,7.56,666,5034.96,2024-10-11
+863,Heart conference protect behavior simple,Robert Jensen,Fantasy,28.8,769,22147.2,2025-05-05
+864,Wall soon put season too,Andrew Mitchell,Business,36.08,138,4979.04,2024-11-24
+865,Service six everybody term,Richard Obrien,Mystery,48.39,513,24824.07,2024-08-24
+866,Situation pull,Julian Watkins,Fantasy,41.64,867,36101.88,2024-09-27
+867,Usually collection take pressure,Lisa Hunt,Business,37.91,950,36014.5,2025-01-18
+868,Focus our fight,Robert Green,Romance,45.13,478,21572.14,2024-12-15
+869,Until final list,Lisa Ball,Fantasy,16.87,892,15048.04,2025-06-17
+870,Clearly ask,Marie Fox,Self-Help,24.92,912,22727.04,2025-01-17
+871,Practice prove,Jessica Alvarez,Self-Help,21.5,759,16318.5,2024-09-22
+872,Dark foot drive,Brian Perry,Fantasy,23.94,666,15944.04,2025-07-04
+873,Produce teach,William Walker,Mystery,8.33,595,4956.35,2025-01-16
+874,Behind evidence,Michael Richmond,Fantasy,24.93,150,3739.5,2025-04-07
+875,Visit position popular,Danielle Jackson,Non-Fiction,43.08,460,19816.8,2025-04-05
+876,Eat moment position speech,Brandon Bryant,Self-Help,43.9,688,30203.2,2024-11-06
+877,Personal foreign home wide month,Cameron Pruitt,Self-Help,7.19,200,1438.0,2025-01-11
+878,Television mission agree,Aaron King,Non-Fiction,40.97,526,21550.22,2024-12-08
+879,Result window,Amy King,Mystery,10.22,518,5293.96,2024-11-26
+880,Candidate wrong point reflect,Joshua Fields,Sci-Fi,42.35,501,21217.35,2024-12-02
+881,Though bit director see,Linda Lynch,Non-Fiction,14.99,236,3537.64,2025-05-28
+882,Church special today,Nicholas Murphy,Mystery,19.02,401,7627.02,2024-12-11
+883,Special science become name participant,Debra Mitchell,Mystery,27.01,784,21175.84,2024-11-22
+884,Speech often teach determine,Chelsea Johnson MD,Sci-Fi,48.54,183,8882.82,2024-11-09
+885,Effort recently skill,Bobby Phillips,Sci-Fi,9.77,473,4621.21,2024-09-02
+886,Art PM yet study,Donna Hodge,Business,40.9,699,28589.1,2024-08-19
+887,Low always hold drug,Robin Bowman,Fantasy,23.04,299,6888.96,2024-12-07
+888,Discover turn open,Cynthia Williams,Sci-Fi,48.68,280,13630.4,2025-07-02
+889,Assume ball space,Sarah Pearson,Fiction,19.41,507,9840.87,2025-06-02
+890,Particular individual race staff,Hunter Strickland,Romance,30.25,737,22294.25,2024-12-18
+891,Environmental to western standard,Mrs. Alexis Barrera,Fiction,23.59,390,9200.1,2024-08-22
+892,Out station give against,Denise Medina,Self-Help,29.62,247,7316.14,2025-06-05
+893,Any put account not,Jacqueline Galvan,Mystery,29.48,939,27681.72,2025-04-24
+894,Special discussion,James Webb,Romance,5.68,243,1380.24,2024-12-22
+895,Summer close service technology,Dr. Alex Guerrero,Fantasy,18.92,927,17538.84,2025-05-03
+896,Resource after second,Kaitlyn Hendrix,Mystery,40.74,421,17151.54,2025-04-27
+897,Heavy run ever also,Vanessa Frank,Fiction,5.32,550,2926.0,2025-06-08
+898,Do girl may site,Michael Jackson,Romance,40.86,245,10010.7,2024-09-12
+899,Event side price guy,Dustin Smith,Non-Fiction,5.79,88,509.52,2025-07-21
+900,Line law leave,Cody Goodman,Fiction,39.71,544,21602.24,2025-05-05
+901,Production magazine agent total,Jennifer Barr,Mystery,14.58,124,1807.92,2024-10-16
+902,No produce during occur,Katrina Thompson,Romance,25.58,561,14350.38,2025-06-28
+903,Congress and,Christina Johnson,Romance,40.13,413,16573.69,2024-11-06
+904,Religious open,Stephen Mata,Romance,21.69,801,17373.69,2024-09-15
+905,Former land source any,Richard Vargas,Business,45.97,953,43809.41,2025-05-14
+906,Eye college foot,Robert Craig,Self-Help,19.8,870,17226.0,2025-02-25
+907,At environmental,Latasha Chapman,Fantasy,18.18,120,2181.6,2025-07-27
+908,Every walk film ago,Penny Murillo,Romance,23.66,385,9109.1,2025-05-05
+909,Store wind letter pass,Jason Gallagher,Romance,30.15,546,16461.9,2025-06-12
+910,Piece factor beautiful team size,David Gomez,Fantasy,29.71,194,5763.74,2025-05-12
+911,Current mother high certainly,Melinda Wu,Business,9.31,835,7773.85,2024-11-30
+912,Set soon build perform,Heather Jones,Fantasy,39.02,894,34883.88,2024-09-21
+913,Common pressure,Thomas Larson,Romance,15.75,111,1748.25,2025-01-16
+914,Rock good responsibility,Dustin Wilson,Romance,42.87,216,9259.92,2024-10-07
+915,Color world professor,Joshua Fuller,Fiction,19.94,766,15274.04,2025-03-23
+916,Him near office,Leah Richmond,Fiction,22.69,638,14476.22,2025-07-11
+917,Sure road begin reveal society,Patricia Miller,Business,15.24,875,13335.0,2024-09-17
+918,Ago rest boy only,Elizabeth Fowler,Fantasy,35.59,904,32173.36,2025-01-29
+919,Amount should,Teresa Ortiz,Romance,41.99,774,32500.26,2025-06-09
+920,Value on color community,Nancy Arnold,Sci-Fi,22.78,190,4328.2,2025-08-11
+921,Of every great other,Samuel Cruz,Business,33.12,577,19110.24,2025-06-18
+922,Sign theory always,Dana Rodgers,Business,27.25,214,5831.5,2024-11-25
+923,Cut send baby course,Karen Coleman,Romance,17.94,195,3498.3,2025-04-01
+924,Stage break could expert,Dr. Charles Hansen,Business,45.58,141,6426.78,2025-08-06
+925,Nothing even state,David Phillips,Mystery,16.82,316,5315.12,2024-10-27
+926,Debate cut resource,Christian Francis,Self-Help,9.57,344,3292.08,2025-07-01
+927,Rise become science,Jeffrey Bradley,Mystery,14.94,878,13117.32,2025-04-20
+928,More office maintain right,Mary Lara,Self-Help,26.17,323,8452.91,2025-01-08
+929,Professor everything budget box,Maria Smith,Fiction,48.56,235,11411.6,2025-08-11
+930,Ready window among page including,Joseph Olson,Non-Fiction,24.59,651,16008.09,2024-09-10
+931,Occur deal,Andrea Ruiz,Fiction,49.02,521,25539.42,2024-11-22
+932,Realize relationship view realize catch,Sabrina Smith,Mystery,32.31,629,20322.99,2025-01-20
+933,Apply car call music more,Clayton Beard,Romance,44.94,666,29930.04,2024-11-21
+934,Organization child dark tax,Marissa Garcia,Business,49.74,935,46506.9,2024-12-29
+935,Hour project enter allow,Benjamin Hughes,Business,18.43,96,1769.28,2025-04-07
+936,Box music everything will,Duane Porter,Sci-Fi,47.72,908,43329.76,2025-06-30
+937,Control although because,Randy Brown,Romance,19.86,130,2581.8,2025-07-29
+938,You wonder thank red,Walter Moore,Fiction,18.22,254,4627.88,2025-07-04
+939,Well unit,Colleen Martinez,Self-Help,21.22,963,20434.86,2024-11-06
+940,Try else at,Amanda Thomas,Fiction,27.58,59,1627.22,2025-02-19
+941,Cut message paper population,Angela Bowers,Mystery,36.54,578,21120.12,2025-04-17
+942,Live him present,Linda Hoover,Sci-Fi,5.41,820,4436.2,2025-01-31
+943,Perhaps benefit year natural,Mark Smith,Sci-Fi,11.65,777,9052.05,2024-08-29
+944,Do important training,William Clark DDS,Fiction,12.04,171,2058.84,2025-01-07
+945,Here suffer last career,Misty Powell,Business,36.33,627,22778.91,2025-07-17
+946,Camera event increase write area,Anthony Lopez,Self-Help,49.32,615,30331.8,2025-04-11
+947,Item administration town individual,Eugene Adams DVM,Non-Fiction,15.49,157,2431.93,2024-09-07
+948,Hair maybe leader story with,Martin Simpson,Self-Help,32.26,336,10839.36,2025-08-16
+949,Line move rest,Bryce Grant,Non-Fiction,49.85,84,4187.4,2025-02-18
+950,Card add cultural,Michael Shepard,Business,46.2,886,40933.2,2025-07-07
+951,Figure mind order majority,Carolyn Smith,Romance,15.32,468,7169.76,2025-06-03
+952,May white agent,Christopher Jenkins,Fiction,18.57,251,4661.07,2024-10-17
+953,Less both serve,Sean Roberts,Non-Fiction,35.37,749,26492.13,2025-05-21
+954,Value oil,Deborah Munoz,Non-Fiction,34.34,871,29910.14,2024-11-12
+955,Realize long rich,Eric Blankenship,Fantasy,42.5,275,11687.5,2025-05-12
+956,Protect despite rise short,Joseph Preston,Fantasy,19.08,844,16103.52,2025-03-27
+957,Side service son,Dr. Robin Harper MD,Fiction,10.44,823,8592.12,2025-02-12
+958,Big suddenly service check store,Amanda Campbell,Fiction,27.53,462,12718.86,2024-08-22
+959,Strong color check,Michelle Lynch,Romance,10.97,782,8578.54,2025-01-26
+960,Boy purpose despite,Amber Jackson,Fantasy,6.11,310,1894.1,2025-07-15
+961,Read goal discover,Betty Newman,Business,39.4,932,36720.8,2025-06-09
+962,Head second would,Derrick Snyder,Sci-Fi,5.82,878,5109.96,2024-12-17
+963,Population these catch,Tammy Newman,Self-Help,5.63,990,5573.7,2025-04-17
+964,Decision each simple though,Paul Davis,Fantasy,23.89,613,14644.57,2025-02-11
+965,Ability total threat nature firm,Kathleen Hayes,Non-Fiction,39.12,700,27384.0,2025-01-24
+966,Per consumer,Aaron Howard,Self-Help,29.88,853,25487.64,2025-07-12
+967,Like research,Christopher George,Self-Help,6.63,176,1166.88,2025-03-16
+968,Him onto low,Erik Rosario,Self-Help,41.13,638,26240.94,2024-08-23
+969,Within a stock,Alejandro Harris,Fiction,28.19,266,7498.54,2025-05-18
+970,Treat chair,Jonathan Wang,Non-Fiction,23.14,568,13143.52,2024-11-20
+971,Number suddenly property,William Gould,Romance,32.22,531,17108.82,2025-08-16
+972,Avoid office hour,Michael Anderson,Non-Fiction,11.84,478,5659.52,2024-10-09
+973,Mr defense movement list war,Stacey Richardson,Self-Help,34.86,458,15965.88,2025-01-30
+974,Between measure form remain,Michelle Stone,Self-Help,48.84,996,48644.64,2025-07-08
+975,Find after ability medical,Erica Ray,Romance,33.24,383,12730.92,2025-07-08
+976,Wind understand,Kimberly Figueroa,Romance,8.11,528,4282.08,2025-06-09
+977,Want challenge forward between many,Dana Powers,Self-Help,32.02,803,25712.06,2025-04-30
+978,Describe hit board production school,Timothy Gonzalez,Non-Fiction,33.17,514,17049.38,2024-11-06
+979,Can our,Michael Alexander,Romance,39.43,764,30124.52,2024-09-03
+980,Little defense born,Angel Ramirez,Business,43.12,264,11383.68,2025-03-05
+981,Deal white much,Kathryn Day,Romance,18.25,835,15238.75,2024-12-29
+982,Rest accept sure,Donald Lutz,Romance,24.94,853,21273.82,2024-10-22
+983,Late step often,Emily Burke,Self-Help,13.07,883,11540.81,2025-07-20
+984,Over fish turn still,Jeffrey Colon,Mystery,17.93,120,2151.6,2024-11-25
+985,Hit him question accept at,Bryan Parsons,Fiction,6.64,714,4740.96,2025-01-03
+986,Possible teacher friend,Madison Berg,Non-Fiction,7.76,833,6464.08,2025-01-13
+987,Dream could hair tax,Crystal Leonard,Fantasy,27.88,899,25064.12,2024-10-31
+988,Whatever page ten,Brenda Herring,Fantasy,6.15,478,2939.7,2024-10-10
+989,Possible series play sit,Calvin Gonzales,Sci-Fi,6.29,633,3981.57,2025-02-23
+990,With current school,Daniel King,Mystery,11.9,331,3938.9,2025-07-12
+991,Newspaper accept,Beth Carter,Mystery,27.46,121,3322.66,2025-05-03
+992,In including treat,Jennifer Collins,Non-Fiction,29.74,403,11985.22,2025-04-23
+993,Us chance pay,Jacqueline Graham,Fantasy,16.2,421,6820.2,2025-03-19
+994,Serious least,Kyle Douglas,Fiction,47.2,336,15859.2,2025-03-23
+995,Thousand fight school,Walter Kelley,Non-Fiction,42.07,760,31973.2,2024-10-31
+996,Against finish authority including,Walter Hanson,Fantasy,36.18,454,16425.72,2024-12-24
+997,Certainly live shoulder,Katherine Allen,Non-Fiction,23.56,949,22358.44,2025-07-11
+998,Oil explain different little bring,Matthew Alexander,Business,37.49,131,4911.19,2024-12-10
+999,Deal as budget world,Andrea Brown,Romance,34.94,450,15723.0,2025-01-01
+1000,Walk single plan,Gregory Shepard,Fiction,14.05,566,7952.3,2024-09-28
