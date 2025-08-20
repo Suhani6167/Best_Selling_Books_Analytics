@@ -42,4 +42,5 @@ Explore the interactive charts and insights
 
 ## 📊 Power BI Dashboard Preview
 
-[![Power BI Dashboard](dashboard_screenshot.png)](dashboard_screenshot.png)
+[![Power BI Dashboard](dashboard_screenshot.png)](https://github.com/Suhani6167/Best_Selling_Books_Analytics/blob/main/dashboard_screenshot.png)
+
