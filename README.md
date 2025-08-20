@@ -60,4 +60,4 @@ Explore the interactive charts and insights
 
 📊 Power BI Dashboard Preview
 
-<p align="center"> <a href="https://github.com/Suhani6167/Best_Selling_Books_Analytics/blob/main/dashboard_screenshot.png" target="_blank"> <img src="dashboard_screenshot.png" alt="Power BI Dashboard" width="800"> </a> </p>
+[![Power BI Dashboard](dashboard_screenshot.png)](https://github.com/Suhani6167/Best_Selling_Books_Analytics/blob/main/dashboard_screenshot.png)
