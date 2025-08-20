@@ -42,4 +42,4 @@ Explore the interactive charts and insights
 
 ## 📊 Power BI Dashboard Preview
 
-![Power BI Dashboard](dashboard_screenshot.png)
+[![Power BI Dashboard](dashboard_screenshot.png)](dashboard_screenshot.png)
